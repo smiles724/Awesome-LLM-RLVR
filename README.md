@@ -38,8 +38,35 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 <h4>2025</h4>
 
-1. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>  
-   *Yu et al.*, **arXiv**  
+1. **Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts.** <2025.06>   
+   *Haizhong Zheng, Yang Zhou, Brian R. Bartoldson, Bhavya Kailkhura, Fan Lai, Jiawei Zhao, Beidi Chen.* **arXiv**  
+   [[Paper]](https://www.arxiv.org/abs/2506.02177)[[Code]](https://github.com/Infini-AI-Lab/GRESO/)
+2. **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning.** <2025.06>  
+    *Hongling Xu, Qi Zhu, Heyuan Deng, Jinpeng Li, Lu Hou.*, **arXiv**  
+   [[Paper]](https://arxiv.org/pdf/2506.02208v1)
+3. ** ** <2025.06>  
+    *et al.*, **arXiv**  
+   [[Paper]]()[[Code]]()
+4. ** ** <2025.06>  
+    *et al.*, **arXiv**  
+   [[Paper]]()[[Code]]()
+5. ** ** <2025.06>  
+    *et al.*, **arXiv**  
+   [[Paper]]()[[Code]]()
+6. ** ** <2025.06>  
+    *et al.*, **arXiv**  
+   [[Paper]]()[[Code]]()
+7. ** ** <2025.06>  
+    *et al.*, **arXiv**  
+   [[Paper]]()[[Code]]()
+8. ** ** <2025.06>  
+    *et al.*, **arXiv**  
+   [[Paper]]()[[Code]]()
+9. **Temporal Sampling for Forgotten Reasoning in LLMs** <2025.05>   
+   *Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran.*, **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2505.20196)[[Code]](https://github.com/uw-nsl/Temporal_Forgetting)
+10. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
+   *Yu et al.*, **arXiv**    
    [[Paper]](https://arxiv.org/abs/2503.14476) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO)
 
 ---
