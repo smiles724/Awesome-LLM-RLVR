@@ -14,8 +14,8 @@ Contributions welcome! See [contributing guidelines](#contributing) below.
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>
-    <li><a href="#motivation">Motivation</a></li>
-    <li><a href="#core-papers">Core Papers</a></li>
+    <li><a href="#motivation">🌟 Motivation</a></li>
+    <li><a href="#core-papers">🧠 Core Papers</a></li>
     <li><a href="#surveys-and-theory">📚 Surveys and Theory</a></li>
     <li><a href="#datasets-and-benchmarks">🏗️ Datasets and Benchmarks</a></li>
     <li><a href="#toolkits-and-libraries">🛠️ Toolkits and Libraries</a></li>
@@ -56,10 +56,21 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 <h2 id="toolkits-and-libraries">🛠️ Toolkits and Libraries</h2>
 
+- [【open-r1】](https://github.com/huggingface/open-r1)-- Fully open reproduction of DeepSeek-R1. ![GitHub Stars](https://img.shields.io/github/stars/huggingface/open-r1?style=social)
+- [【PRIME】](https://github.com/PRIME-RL/PRIME) -- Scalable RL solution for advanced reasoning of language models.  ![GitHub Stars](https://img.shields.io/github/stars/PRIME-RL/PRIME?style=social)
+- [【simpleRL-reason】](https://github.com/hkust-nlp/simpleRL-reason) -- Simple RL training for reasoning.  ![GitHub Stars](https://img.shields.io/github/stars/hkust-nlp/simpleRL-reason?style=social)
+- [【TinyZero】](https://github.com/Jiayi-Pan/TinyZero) -- Minimal reproduction of DeepSeek R1-Zero. ![GitHub Stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero?style=social)
+- [【OpenR】](https://github.com/openreasoner/openr) -- OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models ![GitHub Stars](https://img.shields.io/github/stars/openreasoner/openr?style=social)
+- [【verl】](https://github.com/volcengine/verl) -- verl: Volcano Engine Reinforcement Learning for LLMs. ![GitHub Stars](https://img.shields.io/github/stars/volcengine/verl?style=social)
+- [【rl】](https://github.com/pytorch/rl) -- A modular, primitive-first, python-first PyTorch library for Reinforcement Learning. ![GitHub Stars](https://img.shields.io/github/stars/pytorch/rl?style=social)
+- [【all-rl-algorithms】](https://github.com/FareedKhan-dev/all-rl-algorithms) -- Implementation of all RL algorithms in a simpler way. ![GitHub Stars](https://img.shields.io/github/stars/FareedKhan-dev/all-rl-algorithms?style=social)
+- [【AReaL】](https://github.com/inclusionAI/AReaL) -- Distributed RL System for LLM Reasoning. ![GitHub Stars](https://img.shields.io/github/stars/inclusionAI/AReaL?style=social)
+- [【rllm】](https://github.com/agentica-project/rllm) -- Democratizing Reinforcement Learning for LLMs. ![GitHub Stars](https://img.shields.io/github/stars/agentica-project/rllm?style=social)
+
 ---
 
 <h2>💡 Other Awesome Lists</h2>
-
+- **[Awesome-RL-based-LLM-Reasoning](https://github.com/bruno686/Awesome-RL-based-LLM-Reasoning)** Materials that enhance LLM reasoning with reinforcement learning. 
 - **[Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)**  Curated collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs.
 - **[Awesome-Controllable-Generation](https://github.com/atfortes/Awesome-Controllable-Generation)**  Collection of papers and resources on Controllable Generation using Diffusion Models.
 - **[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)**  A trend starting from "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models".
