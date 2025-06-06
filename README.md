@@ -80,13 +80,16 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 14. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
    *Yu et al.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2503.14476) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO)
-15. **GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models.**  <2025.04>   
+15. **RM-R1: Reward Modeling as Reasoning**  <2025.05>  
+    *Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji* **arXiv**
+    [[Paper]](https://arxiv.org/abs/2505.02387) [[Code]](https://github.com/RM-R1-UIUC/RM-R1)
+16. **GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models.**  <2025.04>   
     *Jixiao Zhang, Chunsheng Zuo.* **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.09696) 
-16. **Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning.**  <2025.04>   
+17. **Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning.**  <2025.04>   
     *Sanghwan Bae, Jiwoo Hong, Min Young Lee, Hanbyul Kim, JeongYeon Nam, Donghyun Kwak.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.03380)
-17. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
+18. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
     *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, Wenhao Zhuang, Zheng Lin, Minglei Zhang, Shaojie Wang, Yinghan Cui, Chao Wang, Junyi Peng, Shimiao Jiang, Shiqi Kuang, Shouyu Yin, Chaohang Wen, Haotian Zhang, Bin Chen, Bing Yu.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.14286)  
 
