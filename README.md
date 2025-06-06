@@ -56,40 +56,43 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 6. **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning.** <2025.06>  
     *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2506.01347) [[Code]](https://github.com/TianHongZXY/RLVR-Decomposed)
-7. **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning.** <2025.05>  
+7. **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning** <2025.06>  
+    *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin.* **arXiv**    
+    [[Paper]](https://arxiv.org/abs/2506.01939)
+8. **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning.** <2025.05>  
    *Shenao Zhang, Yaqing Wang, Yinxiao Liu, Tianqi Liu, Peter Grabowski, Eugene Ie, Zhaoran Wang, Yunxuan Li.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.20561)
-8. **One-shot Entropy Minimization.** <2025.05>  
+9. **One-shot Entropy Minimization.** <2025.05>  
     *Zitian Gao, Lynx Chen, Joey Zhou, Bryan Dai.* **arXiv**  
    [[Paper]](https://www.arxiv.org/pdf/2505.20282) [[Code]](https://github.com/zitian-gao/one-shot-em)
-9. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
+10. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
     *Shivam Agarwal, Zimin Zhang, Lifan Yuan, Jiawei Han, Hao Peng.* **arXiv**  
    [[Paper]](https://arxiv.org/abs/2505.15134)
-10. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.** <2025.05>  
+11. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.** <2025.05>  
      *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, Hao Peng.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.11711)
-11. **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models.** <2025.05>  
+12. **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models.** <2025.05>  
      *Muzhi Dai, Chenxu Yang, Qingyi Si.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.07686)
-12. **Temporal Sampling for Forgotten Reasoning in LLMs** <2025.05>   
+13. **Temporal Sampling for Forgotten Reasoning in LLMs** <2025.05>   
     *Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran.* **arXiv**    
     [[Paper]](https://arxiv.org/abs/2505.20196) [[Code]](https://github.com/uw-nsl/Temporal_Forgetting)
-13. **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models.** <2025.05>   
+14. **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models.** <2025.05>   
     *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding.* **arXiv**    
     [[Paper]](https://arxiv.org/abs/2505.22617) [[Code]](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL)
-14. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
+15. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
    *Yu et al.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2503.14476) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO)
-15. **RM-R1: Reward Modeling as Reasoning**  <2025.05>  
+16. **RM-R1: Reward Modeling as Reasoning**  <2025.05>  
     *Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.02387) [[Code]](https://github.com/RM-R1-UIUC/RM-R1)
-16. **GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models.**  <2025.04>   
+17. **GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models.**  <2025.04>   
     *Jixiao Zhang, Chunsheng Zuo.* **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.09696) 
-17. **Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning.**  <2025.04>   
+18. **Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning.**  <2025.04>   
     *Sanghwan Bae, Jiwoo Hong, Min Young Lee, Hanbyul Kim, JeongYeon Nam, Donghyun Kwak.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.03380)
-18. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
+19. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
     *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, Wenhao Zhuang, Zheng Lin, Minglei Zhang, Shaojie Wang, Yinghan Cui, Chao Wang, Junyi Peng, Shimiao Jiang, Shiqi Kuang, Shouyu Yin, Chaohang Wen, Haotian Zhang, Bin Chen, Bing Yu.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.14286)  
 
