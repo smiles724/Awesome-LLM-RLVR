@@ -38,7 +38,13 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 <h4>2025</h4>
 
-1. **Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts.** <2025.06>   
+1. **Optimizing Anytime Reasoning via Budget Relative Policy Optimization.**   <2025.06>   
+    *Penghui Qi, Zichen Liu, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin.*    **arXiv**   
+    [[Paper]](https://arxiv.org/abs/2505.13438)
+2. **Response-Level Rewards Are All You Need for Online Reinforcement Learning in LLMs: A Mathematical Perspective.**  <2025.06>    
+    *Shenghua He, Tian Xia, Xuan Zhou, Hui Wei.*  **arXiv**   
+    [[Paper]](https://www.arxiv.org/abs/2506.02553)
+2. **Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts.** <2025.06>   
    *Haizhong Zheng, Yang Zhou, Brian R. Bartoldson, Bhavya Kailkhura, Fan Lai, Jiawei Zhao, Beidi Chen.* **arXiv**  
    [[Paper]](https://www.arxiv.org/abs/2506.02177) [[Code]](https://github.com/Infini-AI-Lab/GRESO/)
 2. **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning.** <2025.06>  
@@ -50,7 +56,10 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 4. **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning.** <2025.06>  
     *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2506.01347) [[Code]](https://github.com/TianHongZXY/RLVR-Decomposed)
-5. **One-shot Entropy Minimization.** <2025.05>  
+5. **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning.** <2025.05>  
+   *Shenao Zhang, Yaqing Wang, Yinxiao Liu, Tianqi Liu, Peter Grabowski, Eugene Ie, Zhaoran Wang, Yunxuan Li.* **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2505.20561)
+6. **One-shot Entropy Minimization.** <2025.05>  
     *Zitian Gao, Lynx Chen, Joey Zhou, Bryan Dai.* **arXiv**  
    [[Paper]](https://www.arxiv.org/pdf/2505.20282) [[Code]](https://github.com/zitian-gao/one-shot-em)
 6. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
@@ -86,6 +95,16 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 1. **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models** <2024.02>  
    *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo.* **arXiv**   
     [[Paper]](https://arxiv.org/abs/2402.03300) [[Code]](https://github.com/deepseek-ai/DeepSeek-Math)
+2. 
+
+---
+<h3 id="mllm">Multimodal LLM</h3>
+
+<h4>2025</h4>
+
+1. *SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning.***  <2025.06> 
+    *Zhongwei Wan, Zhihao Dou, Che Liu, Yu Zhang, Dongfei Cui, Qinjian Zhao, Hui Shen, Jing Xiong, Yi Xin, Yifan Jiang, Yangfan He, Mi Zhang, Shen Yan.*   **arXiv**   
+    [[Paper]](https://arxiv.org/abs/2506.01713) [[Code]](https://srpo.pages.dev/)
 2. 
 
 ---
