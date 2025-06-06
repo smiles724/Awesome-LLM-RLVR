@@ -40,7 +40,7 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 1. **Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts.** <2025.06>   
    *Haizhong Zheng, Yang Zhou, Brian R. Bartoldson, Bhavya Kailkhura, Fan Lai, Jiawei Zhao, Beidi Chen.* **arXiv**  
-   [[Paper]](https://www.arxiv.org/abs/2506.02177)[[Code]](https://github.com/Infini-AI-Lab/GRESO/)
+   [[Paper]](https://www.arxiv.org/abs/2506.02177) [[Code]](https://github.com/Infini-AI-Lab/GRESO/)
 2. **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning.** <2025.06>  
     *Hongling Xu, Qi Zhu, Heyuan Deng, Jinpeng Li, Lu Hou.*, **arXiv**  
    [[Paper]](https://arxiv.org/pdf/2506.02208v1)
@@ -49,10 +49,10 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
    [[Paper]](https://www.arxiv.org/abs/2506.02355)
 4. **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning.** <2025.06>  
     *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng.* **arXiv**    
-   [[Paper]](https://arxiv.org/abs/2506.01347)[[Code]](https://github.com/TianHongZXY/RLVR-Decomposed)
+   [[Paper]](https://arxiv.org/abs/2506.01347) [[Code]](https://github.com/TianHongZXY/RLVR-Decomposed)
 5. **One-shot Entropy Minimization.** <2025.05>  
     *Zitian Gao, Lynx Chen, Joey Zhou, Bryan Dai.* **arXiv**  
-   [[Paper]](https://www.arxiv.org/pdf/2505.20282)[[Code]](https://github.com/zitian-gao/one-shot-em)
+   [[Paper]](https://www.arxiv.org/pdf/2505.20282) [[Code]](https://github.com/zitian-gao/one-shot-em)
 6. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
     *Shivam Agarwal, Zimin Zhang, Lifan Yuan, Jiawei Han, Hao Peng.* **arXiv**  
    [[Paper]](https://arxiv.org/abs/2505.15134)
@@ -64,10 +64,10 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
    [[Paper]](https://arxiv.org/abs/2505.07686)
 9. **Temporal Sampling for Forgotten Reasoning in LLMs** <2025.05>   
    *Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran.* **arXiv**    
-   [[Paper]](https://arxiv.org/abs/2505.20196)[[Code]](https://github.com/uw-nsl/Temporal_Forgetting)
+   [[Paper]](https://arxiv.org/abs/2505.20196) [[Code]](https://github.com/uw-nsl/Temporal_Forgetting)
 10. **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models.** <2025.05>   
     *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding.* **arXiv**    
-    [[Paper]](https://arxiv.org/abs/2505.22617)[[Code]](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL)
+    [[Paper]](https://arxiv.org/abs/2505.22617) [[Code]](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL)
 12. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
    *Yu et al.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2503.14476) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO)
@@ -112,8 +112,9 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 - 【[all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms)】 -- Implementation of all RL algorithms in a simpler way. ![GitHub Stars](https://img.shields.io/github/stars/FareedKhan-dev/all-rl-algorithms?style=social)
 - 【[AReaL](https://github.com/inclusionAI/AReaL)】 -- Distributed RL System for LLM Reasoning. ![GitHub Stars](https://img.shields.io/github/stars/inclusionAI/AReaL?style=social)
 - 【[rllm](https://github.com/agentica-project/rllm)】 -- Democratizing Reinforcement Learning for LLMs. ![GitHub Stars](https://img.shields.io/github/stars/agentica-project/rllm?style=social)
-
----
+- 【[MARTI](https://github.com/TsinghuaC3I/MARTI)】 -- A Framework for LLM-based Multi-Agent Reinforced Training and Inference.  ![GitHub Stars](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social)
+- 【[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) 】-- An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray. ![GitHub Stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social)
+- 【[ROLL](https://github.com/alibaba/ROLL)】-- An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models. ![GitHub Stars](https://img.shields.io/github/stars/alibaba/ROLL?style=social)
 
 <h2>💡 Other Awesome Lists</h2>
 
@@ -147,6 +148,12 @@ Let’s make LLMs reason better, faster, and more verifiably.
   <img src="https://contrib.rocks/image?repo=smiles724/Awesome-LLM-RLVR" />
 </a>
 
+
+---
+
+<h2 id="star"> ⭐ Star History</h2>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=smiles724/Awesome-LLM-RLVR&type=Date)](https://www.star-history.com/#smiles724/Awesome-LLM-RLVR&Date)
 ---
 
 <h2 id="license">🧾 License</h2>
