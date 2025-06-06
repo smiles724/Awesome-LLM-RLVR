@@ -44,30 +44,49 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 2. **KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning.** <2025.06>  
     *Hongling Xu, Qi Zhu, Heyuan Deng, Jinpeng Li, Lu Hou.*, **arXiv**  
    [[Paper]](https://arxiv.org/pdf/2506.02208v1)
-3. ** ** <2025.06>  
-    *et al.*, **arXiv**  
-   [[Paper]]()[[Code]]()
-4. ** ** <2025.06>  
-    *et al.*, **arXiv**  
-   [[Paper]]()[[Code]]()
-5. ** ** <2025.06>  
-    *et al.*, **arXiv**  
-   [[Paper]]()[[Code]]()
-6. ** ** <2025.06>  
-    *et al.*, **arXiv**  
-   [[Paper]]()[[Code]]()
-7. ** ** <2025.06>  
-    *et al.*, **arXiv**  
-   [[Paper]]()[[Code]]()
-8. ** ** <2025.06>  
-    *et al.*, **arXiv**  
-   [[Paper]]()[[Code]]()
+3. **Rewarding the Unlikely: Lifting GRPO Beyond Distribution Sharpening.** <2025.06>  
+    *Andre He, Daniel Fried, Sean Welleck.* **arXiv**  
+   [[Paper]](https://www.arxiv.org/abs/2506.02355)
+4. **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning.** <2025.06>  
+    *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng.* **arXiv**    
+   [[Paper]](https://arxiv.org/abs/2506.01347)[[Code]](https://github.com/TianHongZXY/RLVR-Decomposed)
+5. **One-shot Entropy Minimization.** <2025.05>  
+    *Zitian Gao, Lynx Chen, Joey Zhou, Bryan Dai.* **arXiv**  
+   [[Paper]](https://www.arxiv.org/pdf/2505.20282)[[Code]](https://github.com/zitian-gao/one-shot-em)
+6. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
+    *Shivam Agarwal, Zimin Zhang, Lifan Yuan, Jiawei Han, Hao Peng.* **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2505.15134)
+7. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.** <2025.05>  
+    *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, Hao Peng.* **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2505.11711)
+8. **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models.** <2025.05>  
+    *Muzhi Dai, Chenxu Yang, Qingyi Si.* **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2505.07686)
 9. **Temporal Sampling for Forgotten Reasoning in LLMs** <2025.05>   
-   *Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran.*, **arXiv**  
+   *Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2505.20196)[[Code]](https://github.com/uw-nsl/Temporal_Forgetting)
-10. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
-   *Yu et al.*, **arXiv**    
+10. **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models.** <2025.05>   
+    *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding.* **arXiv**    
+    [[Paper]](https://arxiv.org/abs/2505.22617)[[Code]](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL)
+12. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
+   *Yu et al.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2503.14476) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO)
+11. **GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models.**  <2025.04>   
+    *Jixiao Zhang, Chunsheng Zuo.* **arXiv**   
+   [[Paper]](https://arxiv.org/abs/2504.09696) 
+12. **Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning. **  <2025.04>   
+    *Sanghwan Bae, Jiwoo Hong, Min Young Lee, Hanbyul Kim, JeongYeon Nam, Donghyun Kwak.*  **arXiv**   
+    [[Paper]](https://arxiv.org/abs/2504.03380)
+13. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
+    *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, Wenhao Zhuang, Zheng Lin, Minglei Zhang, Shaojie Wang, Yinghan Cui, Chao Wang, Junyi Peng, Shimiao Jiang, Shiqi Kuang, Shouyu Yin, Chaohang Wen, Haotian Zhang, Bin Chen, Bing Yu.*  **arXiv**   
+    [[Paper]](https://arxiv.org/abs/2504.14286)  
+
+<h4>2024</h4>
+
+1. **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models** <2024.02>  
+   *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo.* **arXiv**   
+    [[Paper]](https://arxiv.org/abs/2402.03300) [[Code]](https://github.com/deepseek-ai/DeepSeek-Math)
+2. 
 
 ---
 
