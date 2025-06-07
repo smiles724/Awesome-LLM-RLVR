@@ -116,6 +116,18 @@ Capacity in LLMs Beyond the Base Model?**  <2025.05>
     [[Paper]](https://arxiv.org/abs/2402.03300) [[Code]](https://github.com/deepseek-ai/DeepSeek-Math)
 2. 
 
+
+
+---
+
+<h3 id="rlvr-foundations">Unsupervised RLVR</h3>
+
+
+
+<h4>2025</h4>
+
+
+
 ---
 <h3 id="mllm">Multimodal LLM</h3>
 
