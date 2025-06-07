@@ -124,6 +124,19 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 ---
 
+
+<h4>2024</h4>
+
+1. **ReFT: Reasoning with Reinforced Fine-Tuning** <2024.01>  
+   *Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li.* **arXiv / ACL 2024**  
+   [[Paper]](https://arxiv.org/abs/2401.08967) [[Code]](https://github.com/lqtrung1998/mwp_ReFT)
+---
+
+
+
+
+
+
 <h2 id="datasets-and-benchmarks">🏗️ Datasets and Benchmarks</h2>
 
 ---
