@@ -59,46 +59,49 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 7. **Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning** <2025.06>  
     *Shenzhi Wang, Le Yu, Chang Gao, Chujie Zheng, Shixuan Liu, Rui Lu, Kai Dang, Xionghui Chen, Jianxin Yang, Zhenru Zhang, Yuqiong Liu, An Yang, Andrew Zhao, Yang Yue, Shiji Song, Bowen Yu, Gao Huang, Junyang Lin.* **arXiv**    
     [[Paper]](https://arxiv.org/abs/2506.01939)
-8. **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning.** <2025.05>  
+8. **Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback** <2025.06>  
+    *Xiaoying Zhang, Hao Sun, Yipeng Zhang, Kaituo Feng, Chaochao Lu, Chao Yang, Helen Meng* **arXiv**    
+   [[Paper]](https://www.arxiv.org/abs/2506.03106) [[Code]](https://github.com/zhangxy-2019/critique-GRPO)
+9. **Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning.** <2025.05>  
    *Shenao Zhang, Yaqing Wang, Yinxiao Liu, Tianqi Liu, Peter Grabowski, Eugene Ie, Zhaoran Wang, Yunxuan Li.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.20561)
-9. **One-shot Entropy Minimization.** <2025.05>  
+10. **One-shot Entropy Minimization.** <2025.05>  
     *Zitian Gao, Lynx Chen, Joey Zhou, Bryan Dai.* **arXiv**  
    [[Paper]](https://www.arxiv.org/pdf/2505.20282) [[Code]](https://github.com/zitian-gao/one-shot-em)
-10. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
+11. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
     *Shivam Agarwal, Zimin Zhang, Lifan Yuan, Jiawei Han, Hao Peng.* **arXiv**  
    [[Paper]](https://arxiv.org/abs/2505.15134)
-11. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.** <2025.05>  
+12. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.** <2025.05>  
      *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, Hao Peng.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.11711)
-12. **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models.** <2025.05>  
+13. **S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models.** <2025.05>  
      *Muzhi Dai, Chenxu Yang, Qingyi Si.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.07686)
-13. **Temporal Sampling for Forgotten Reasoning in LLMs** <2025.05>   
+14. **Temporal Sampling for Forgotten Reasoning in LLMs** <2025.05>   
     *Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran.* **arXiv**    
     [[Paper]](https://arxiv.org/abs/2505.20196) [[Code]](https://github.com/uw-nsl/Temporal_Forgetting)
-14. **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models.** <2025.05>   
+15. **The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models.** <2025.05>   
     *Ganqu Cui, Yuchen Zhang, Jiacheng Chen, Lifan Yuan, Zhi Wang, Yuxin Zuo, Haozhan Li, Yuchen Fan, Huayu Chen, Weize Chen, Zhiyuan Liu, Hao Peng, Lei Bai, Wanli Ouyang, Yu Cheng, Bowen Zhou, Ning Ding.* **arXiv**    
     [[Paper]](https://arxiv.org/abs/2505.22617) [[Code]](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL)
-15. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
+16. **DAPO: An Open-Source LLM Reinforcement Learning System at Scale.**  <2025.05>   
    *Yu et al.* **arXiv**    
    [[Paper]](https://arxiv.org/abs/2503.14476) [[Code]](https://github.com/BytedTsinghua-SIA/DAPO)
-16. **RM-R1: Reward Modeling as Reasoning**  <2025.05>  
+17. **RM-R1: Reward Modeling as Reasoning**  <2025.05>  
     *Xiusi Chen, Gaotang Li, Ziqi Wang, Bowen Jin, Cheng Qian, Yu Wang, Hongru Wang, Yu Zhang, Denghui Zhang, Tong Zhang, Hanghang Tong, Heng Ji.* **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.02387) [[Code]](https://github.com/RM-R1-UIUC/RM-R1)
-17. **Spurious Rewards: Rethinking Training Signals in RLVR**  <2025.05>  
+18. **Spurious Rewards: Rethinking Training Signals in RLVR**  <2025.05>  
     *Rulin Shao, Shuyue Stella Li, Rui Xin, Scott Geng, Yiping Wang, Sewoong Oh, Simon Shaolei Du, Nathan Lambert, Sewon Min, Ranjay Krishna, Yulia Tsvetkov, Hannaneh Hajishirzi, Pang Wei Koh, Luke Zettlemoyer* **arXiv**  
     [[Paper]](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf) [[Code]](https://github.com/ruixin31/Rethink_RLVR)  
-18. **GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models.**  <2025.04>   
+19. **GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models.**  <2025.04>   
     *Jixiao Zhang, Chunsheng Zuo.* **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.09696)
-19. **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks.** <2025.04>
+20. **VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks.** <2025.04>
     *Yu Yue, Yufeng Yuan, Qiying Yu, Xiaochen Zuo, Ruofei Zhu, Wenyuan Xu, Jiaze Chen, Chengyi Wang, TianTian Fan, Zhengyin Du, Xiangpeng Wei, Xiangyu Yu, Gaohong Liu, Juncai Liu, Lingjun Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Ru Zhang, Xin Liu, Mingxuan Wang, Yonghui Wu, Lin Yan.* **arXiv**
     [Paper]()
-20. **Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning.**  <2025.04>   
+21. **Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning.**  <2025.04>   
     *Sanghwan Bae, Jiwoo Hong, Min Young Lee, Hanbyul Kim, JeongYeon Nam, Donghyun Kwak.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.03380)
-21. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
+22. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
     *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, Wenhao Zhuang, Zheng Lin, Minglei Zhang, Shaojie Wang, Yinghan Cui, Chao Wang, Junyi Peng, Shimiao Jiang, Shiqi Kuang, Shouyu Yin, Chaohang Wen, Haotian Zhang, Bin Chen, Bing Yu.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.14286)  
 
