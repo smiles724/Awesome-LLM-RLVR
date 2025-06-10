@@ -1,4 +1,6 @@
 # Awesome LLM-RLVR [🔥📜]
+[![Auto Update Papers](https://github.com/smiles724/Awesome-LLM-RLVR/actions/workflows/arxiv-update.yml/badge.svg)](https://github.com/smiles724/Awesome-LLM-RLVR/actions/workflows/arxiv-update.yml)
+
 <div align="center">
   <a href="https://github.com/smiles724/Awesome-LLM-RLVR/stargazers"><img src="https://img.shields.io/github/stars/smiles724/Awesome-LLM-RLVR?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/smiles724/Awesome-LLM-RLVR/network/members"><img src="https://img.shields.io/github/forks/smiles724/Awesome-LLM-RLVR?style=for-the-badge" alt="Forks"></a>
@@ -31,6 +33,10 @@ Contributions welcome! See [contributing guidelines](#contributing) below.
 RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward verification**, **self-consistency**, and **bootstrap learning**, enabling models to improve reasoning capabilities without relying heavily on human supervision.
 
 ---
+
+### 🔄 Auto-Fetched Recent Papers
+
+
 
 <h2 id="core-papers">🧠 Core Papers</h2>
 
@@ -138,7 +144,7 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 <h4>2025</h4>
 1. **Spurious Rewards: Rethinking Training Signals in RLVR**  <2025.05>  
-    *Rulin Shao, Shuyue Stella Li, Rui Xin, Scott Geng, Yiping Wang, Sewoong Oh, Simon Shaolei Du, Nathan Lambert, Sewon Min, Ranjay Krishna, Yulia Tsvetkov, Hannaneh Hajishirzi, Pang Wei Koh, Luke Zettlemoyer* **arXiv**  
+    *Rulin Shao, Shuyue Stella Li, Rui Xin, Scott Geng, Yiping Wang, Sewoong Oh, Simon Shaolei Du, Nathan Lambert, Sewon Min, Ranjay Krishna, Yulia Tsvetkov, Hannaneh Hajishirzi, Pang Wei Koh, Luke Zettlemoyer.* **Notion**  
     [[Paper]](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf) [[Code]](https://github.com/ruixin31/Rethink_RLVR)
 2. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.** <2025.05>  
      *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, Hao Peng.* **arXiv**  
@@ -163,12 +169,36 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
     [[Paper]](https://arxiv.org/abs/2503.05379) [[Code]](https://github.com/HumanMLLM/R1-Omni)  
 
 ---
-
-<h2 id="surveys-and-theory">📚 Surveys and Theory</h2>
+<h3 id="evaluation">Evaluation Issue </h3>
 
 <h4>2025</h4>
 
+1. **A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility.** <2025.05>   
+   *Andreas Hochlehnert, Hardik Bhatnagar, Vishaal Udandarao, Samuel Albanie, Ameya Prabhu, Matthias Bethge.*    **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2504.07086)
+2. **Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims.**    <2025.05>   
+   *Nikhil Chandak, Shashwat Goel, Ameya Prabhu.*   **Notion**
+    [[Paper]](https://safe-lip-9a8.notion.site/Incorrect-Baseline-Evaluations-Call-into-Question-Recent-LLM-RL-Claims-2012f1fbf0ee8094ab8ded1953c15a37)
+
+
+
+<h2 id="blogs">📚 Awesome Blogs about RLVR</h2>
+
+[SemiAnalysis](https://semianalysis.com/2025/06/08/scaling-reinforcement-learning-environments-reward-hacking-agents-scaling-data/): 
+Scaling Reinforcement Learning: Environments, Reward Hacking, Agents, Scaling Data.    
+
+
+
 ---
+
+[//]: # ()
+[//]: # (<h2 id="surveys-and-theory">📚 Surveys and Theory</h2>)
+
+[//]: # ()
+[//]: # (<h4>2025</h4>)
+
+[//]: # ()
+[//]: # (---)
 
 
 <h2 id="datasets-and-benchmarks">🏗️ Datasets and Benchmarks</h2>
