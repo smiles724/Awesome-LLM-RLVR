@@ -8,7 +8,7 @@
 
 >  A curated list of research papers, tools, datasets, and frameworks for **Reinforcement Learning with Verifiable Rewards (RLVR)** in Large Language Models (LLMs).  
 > Inspired by the intersection of alignment, reasoning, and self-improvement in foundation models.  
-
+ 
 Contributions welcome! See [contributing guidelines](#contributing) below.
 
 <details>
