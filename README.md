@@ -94,12 +94,6 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 15. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
     *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, Wenhao Zhuang, Zheng Lin, Minglei Zhang, Shaojie Wang, Yinghan Cui, Chao Wang, Junyi Peng, Shimiao Jiang, Shiqi Kuang, Shouyu Yin, Chaohang Wen, Haotian Zhang, Bin Chen, Bing Yu.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.14286)
-16. **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.** <2025.01> *DeepSeek-AI.*      **arXiv** [[Paper]](https://arxiv.org/abs/2501.12948)
-17. **ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models.** <2025.05>
-    *Mingjie Liu, Shizhe Diao, Ximing Lu, Jian Hu, Xin Dong, Yejin Choi, Jan Kautz, Yi Dong.* **arXiv**
-    [[Paper]](https://arxiv.org/abs/2505.24864)
-19. **GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning.** <2025.07>
-    *Ziru Liu, Cheng Gong, Xinyu Fu, Yaofang Liu, Ran Chen, Shoubo Hu, Suiyun Zhang, Rui Liu, Qingfu Zhang, Dandan Tu.* **arXiv** [[Paper]](https://arxiv.org/abs/2507.10628)
     
 
 <h4>2024</h4>
