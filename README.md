@@ -49,6 +49,7 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 <h3 id="rlvr-foundations">RLVR Foundations</h3>
 
 <h4>2025</h4>
+
 1. **Optimizing Anytime Reasoning via Budget Relative Policy Optimization.**   <2025.06>   
     *Penghui Qi, Zichen Liu, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin.*    **arXiv**   
     [[Paper]](https://arxiv.org/abs/2505.13438)
@@ -93,8 +94,7 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
     [[Paper]](https://arxiv.org/abs/2504.03380)
 15. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
     *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, Wenhao Zhuang, Zheng Lin, Minglei Zhang, Shaojie Wang, Yinghan Cui, Chao Wang, Junyi Peng, Shimiao Jiang, Shiqi Kuang, Shouyu Yin, Chaohang Wen, Haotian Zhang, Bin Chen, Bing Yu.*  **arXiv**   
-    [[Paper]](https://arxiv.org/abs/2504.14286)
-    
+    [[Paper]](https://arxiv.org/abs/2504.14286)  
 
 <h4>2024</h4>
 
@@ -172,7 +172,7 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
     [[Paper]](https://arxiv.org/abs/2506.01713) [[Code]](https://srpo.pages.dev/)
 2. **R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning** <2025.05>   
     *Jiaxing Zhao, Xihan Wei, Liefeng Bo*  **arXiv**   
-    [[Paper]](https://arxiv.org/abs/2503.05379) [[Code]](https://github.com/HumanMLLM/R1-Omni)
+    [[Paper]](https://arxiv.org/abs/2503.05379) [[Code]](https://github.com/HumanMLLM/R1-Omni)  
 
 ---
 <h3 id="evaluation">Evaluation Issue </h3>
