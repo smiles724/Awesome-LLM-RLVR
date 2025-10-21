@@ -159,6 +159,7 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 <h3 id="rlvr-analysis">RLVR Analysis</h3>
 
 <h4>2025</h4>
+
 1. **Spurious Rewards: Rethinking Training Signals in RLVR.**  <2025.05>  
     *Rulin Shao, Shuyue Stella Li, Rui Xin, Scott Geng, Yiping Wang, Sewoong Oh, Simon Shaolei Du, Nathan Lambert, Sewon Min, Ranjay Krishna, Yulia Tsvetkov, Hannaneh Hajishirzi, Pang Wei Koh, Luke Zettlemoyer.*  **Preprint**  
     [[Paper]](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf) [[Code]](https://github.com/ruixin31/Rethink_RLVR)
@@ -177,7 +178,6 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 6. **One Token to Fool LLM-as-a-Judge.**  <2025.07>  
     *Yulai Zhao, Haolin Liu, Dian Yu, S. Y. Kung, Haitao Mi, Dong Yu.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2507.08794)
-
 
 ---
 <h3 id="mllm">Multimodal LLM</h3>
