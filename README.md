@@ -95,14 +95,16 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 15. **SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM.** <2025.04>   
     *Xiaojiang Zhang, Jinghui Wang, Zifei Cheng, Wenhao Zhuang, Zheng Lin, Minglei Zhang, Shaojie Wang, Yinghan Cui, Chao Wang, Junyi Peng, Shimiao Jiang, Shiqi Kuang, Shouyu Yin, Chaohang Wen, Haotian Zhang, Bin Chen, Bing Yu.*  **arXiv**   
     [[Paper]](https://arxiv.org/abs/2504.14286)
-16. **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.** <2025.01> *DeepSeek-AI.* **arXiv**
+16. **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.**  <2025.01>  
+    *DeepSeek-AI.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2501.12948)
-18. **ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models.** <2025.05>
-    *Mingjie Liu, Shizhe Diao, Ximing Lu, Jian Hu, Xin Dong, Yejin Choi, Jan Kautz, Yi Dong.* **arXiv**
+17. **ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models.**  <2025.05>  
+    *Mingjie Liu, Shizhe Diao, Ximing Lu, Jian Hu, Xin Dong, Yejin Choi, Jan Kautz, Yi Dong.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.24864)
-19. **GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning.** <2025.07>
-    *Ziru Liu, Cheng Gong, Xinyu Fu, Yaofang Liu, Ran Chen, Shoubo Hu, Suiyun Zhang, Rui Liu, Qingfu Zhang, Dandan Tu.* **arXiv**
+18. **GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning.**  <2025.07>  
+    *Ziru Liu, Cheng Gong, Xinyu Fu, Yaofang Liu, Ran Chen, Shoubo Hu, Suiyun Zhang, Rui Liu, Qingfu Zhang, Dandan Tu.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2507.10628)
+
 
 <h4>2024</h4>
 
@@ -157,23 +159,25 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 <h3 id="rlvr-analysis">RLVR Analysis</h3>
 
 <h4>2025</h4>
-1. **Spurious Rewards: Rethinking Training Signals in RLVR**  <2025.05>  
-    *Rulin Shao, Shuyue Stella Li, Rui Xin, Scott Geng, Yiping Wang, Sewoong Oh, Simon Shaolei Du, Nathan Lambert, Sewon Min, Ranjay Krishna, Yulia Tsvetkov, Hannaneh Hajishirzi, Pang Wei Koh, Luke Zettlemoyer.* **Notion**  
+1. **Spurious Rewards: Rethinking Training Signals in RLVR.**  <2025.05>  
+    *Rulin Shao, Shuyue Stella Li, Rui Xin, Scott Geng, Yiping Wang, Sewoong Oh, Simon Shaolei Du, Nathan Lambert, Sewon Min, Ranjay Krishna, Yulia Tsvetkov, Hannaneh Hajishirzi, Pang Wei Koh, Luke Zettlemoyer.*  **Preprint**  
     [[Paper]](https://github.com/ruixin31/Rethink_RLVR/blob/main/paper/rethink-rlvr.pdf) [[Code]](https://github.com/ruixin31/Rethink_RLVR)
-2. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.** <2025.05>  
-     *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, Hao Peng.* **arXiv**  
+2. **Reinforcement Learning Finetunes Small Subnetworks in Large Language Models.**  <2025.05>  
+    *Sagnik Mukherjee, Lifan Yuan, Dilek Hakkani-Tur, Hao Peng.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.11711)
-3. **Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**  <2025.05>  
-    *Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang* **arXiv**  
-    [[Paper]](https://arxiv.org/abs/2504.13837) [[Code]](https://github.com/LeapLabTHU/limit-of-RLVR) 
-4. **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning.** <2025.06>  
-    *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng.* **arXiv**    
+3. **Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**  <2025.04>  
+    *Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Shiji Song, Gao Huang.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2504.13837) [[Code]](https://github.com/LeapLabTHU/limit-of-RLVR)
+4. **The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning.**  <2025.06>  
+    *Xinyu Zhu, Mengzhou Xia, Zhepei Wei, Wei-Lin Chen, Danqi Chen, Yu Meng.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2506.01347) [[Code]](https://github.com/TianHongZXY/RLVR-Decomposed)
-5. **Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination.** <2025.07> 
-    *Mingqi Wu, Zhihao Zhang, Qiaole Dong, Zhiheng Xi, Jun Zhao, Senjie Jin, Xiaoran Fan, Yuhao Zhou, Huijie Lv, Ming Zhang, Yanwei Fu, Qin Liu, Songyang Zhang, Qi Zhang* **arXiv**
+5. **Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination.**  <2025.07>  
+    *Mingqi Wu, Zhihao Zhang, Qiaole Dong, Zhiheng Xi, Jun Zhao, Senjie Jin, Xiaoran Fan, Yuhao Zhou, Huijie Lv, Ming Zhang, Yanwei Fu, Qin Liu, Songyang Zhang, Qi Zhang.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2507.10532)
-6. **One Token to Fool LLM-as-a-Judge.** <2025.07> *Yulai Zhao, Haolin Liu, Dian Yu, S. Y. Kung, Haitao Mi, Dong Yu.* **arXiv** 
+6. **One Token to Fool LLM-as-a-Judge.**  <2025.07>  
+    *Yulai Zhao, Haolin Liu, Dian Yu, S. Y. Kung, Haitao Mi, Dong Yu.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2507.08794)
+
 
 ---
 <h3 id="mllm">Multimodal LLM</h3>
@@ -192,18 +196,19 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 <h4>2025</h4>
 
-1. **A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility.** <2025.05>   
-   *Andreas Hochlehnert, Hardik Bhatnagar, Vishaal Udandarao, Samuel Albanie, Ameya Prabhu, Matthias Bethge.*    **arXiv**  
+1. **A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility.**  <2025.04>  
+    *Andreas Hochlehnert, Hardik Bhatnagar, Vishaal Udandarao, Samuel Albanie, Ameya Prabhu, Matthias Bethge.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2504.07086)
-2. **Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims.**    <2025.05>   
-   *Nikhil Chandak, Shashwat Goel, Ameya Prabhu.*   **Notion** 
+2. **Incorrect Baseline Evaluations Call into Question Recent LLM-RL Claims.**  <2025.05>  
+    *Nikhil Chandak, Shashwat Goel, Ameya Prabhu.*  **Blog**  
     [[Paper]](https://safe-lip-9a8.notion.site/Incorrect-Baseline-Evaluations-Call-into-Question-Recent-LLM-RL-Claims-2012f1fbf0ee8094ab8ded1953c15a37)
-3. **Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design.** <2025.06>
-   *Lin Sun, Weihong Lin, Jinzhu Wu, Yongfu Zhu, Xiaoqi Jian, Guangxiang Zhao, Linglin Zhang, Sai-er Hu, Yuhan Wu, Xiangzheng Zhang.* **arXiv**
-   [[Paper]](https://arxiv.org/abs/2506.04734)
-4. **AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions.** <2025.06>
-   *Polina Kirichenko, Shauli Ravfogel, Roee Aharoni, Yonatan Belinkov.* **arXiv**
-   [[Paper]](https://arxiv.org/abs/2506.09038)
+3. **Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design.**  <2025.06>  
+    *Lin Sun, Weihong Lin, Jinzhu Wu, Yongfu Zhu, Xiaoqi Jian, Guangxiang Zhao, Linglin Zhang, Sai-er Hu, Yuhan Wu, Xiangzheng Zhang.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2506.04734)
+4. **AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions.**  <2025.06>  
+    *Polina Kirichenko, Shauli Ravfogel, Roee Aharoni, Yonatan Belinkov.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2506.09038)
+
 
 --- 
 
