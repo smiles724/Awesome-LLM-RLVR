@@ -102,9 +102,26 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
     *Mingjie Liu, Shizhe Diao, Ximing Lu, Jian Hu, Xin Dong, Yejin Choi, Jan Kautz, Yi Dong.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.24864)
 18. **GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning.**  <2025.07>  
-    *Ziru Liu, Cheng Gong, Xinyu Fu, Yaofang Liu, Ran Chen, Shoubo Hu, Suiyun Zhang, Rui Liu, Qingfu Zhang, Dandan Tu.*  **arXiv**  
+    *Ziru Liu, Cheng Gong, Xinyu Fu, Yaofang Liu, Ran Chen, Shoubo Hu, Suiyun Zhang, Rui Liu, Qingfu Zhang, Dandan        Tu.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2507.10628)
-
+19. **GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning.**  <2025.04>  
+    *Xiangxiang Chu, Hailang Huang, Xiao Zhang, Fei Wei, Yong Wang.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2504.02546)
+20. **SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data.**  <2025.05>  
+    *Wenkai Fang, Shunyu Liu, Yang Zhou, Kongcheng Zhang, Tongya Zheng, Kaixuan Chen, Mingli Song, Dacheng Tao.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2505.20347)
+21. **SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning.**  <2025.06>  
+    *Ruiqi Zhang, Daman Arora, Song Mei, Andrea Zanette.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2506.09016)
+22. **Bingo: Boosting Efficient Reasoning of LLMs via Dynamic and Significance-based Reinforcement Learning.**  <2025.06>  
+    *Hanbing Liu, Lang Cao, Yuanyi Ren, Mengyu Zhou, Haoyu Dong, Xiaojun Ma, Shi Han, Dongmei Zhang.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2506.08125)
+23. **Reinforcement Pre-Training.**  <2025.06>  
+    *Qingxiu Dong, Li Dong, Yao Tang, Tianzhu Ye, Yutao Sun, Zhifang Sui, Furu Wei.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2506.08007)
+24. **Reinforcement Learning with Verifiable Rewards: GRPO’s Effective Loss, Dynamics, and Success Amplification.**  <2025.03>  
+    *Youssef Mroueh.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2503.06639)
 
 <h4>2024</h4>
 
@@ -126,15 +143,20 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
     *Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette.* **arXiv**   
     [[Paper]](https://arxiv.org/abs/2505.21444) 
 2. **Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization. **    <2025.05>   
-    *Qingyang Zhang, Haitao Wu, Changqing Zhang, Peilin Zhao, Yatao Bian.*   **arXiv**
+    *Qingyang Zhang, Haitao Wu, Changqing Zhang, Peilin Zhao, Yatao Bian.*     **arXiv**
     [[Paper]](https://arxiv.org/abs/2504.05812)  
-3.  **Maximizing Confidence Alone Improves Reasoning**  <2025.05>     
+4.  **Maximizing Confidence Alone Improves Reasoning**  <2025.05>     
     *Mihir Prabhudesai, Lili Chen, Alex Ippoliti, Katerina Fragkiadaki, Hao Liu, Deepak Pathak.*   **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.22660)
-4.  **Learning to Reason without External Rewards.**   **arXiv**
+5.  **Learning to Reason without External Rewards.**   **arXiv**
     *Xuandong Zhao, Zhewei Kang, Aosong Feng, Sergey Levine, Dawn Song.*      **arXiv**  
     [[Paper]](https://arxiv.org/abs/2505.19590)
-
+6. **NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning.**  <2025.05>  
+    *Wei Liu, Siya Qi, Xinyu Wang, Chen Qian, Yali Du, Yulan He.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2505.16022)
+7. **Absolute Zero: Reinforced Self-Play Reasoning with Zero Data.**  <2025.05>  
+    *Andrew Zhao et al.*  **arXiv**  
+    [[Paper]](https://arxiv.org/abs/2505.03335)
 ---
 
 <h3 id="rlvr-foundations">Entropy in RLVR</h3>
@@ -153,7 +175,12 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 4. **The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning.** <2025.05>  
    *Shivam Agarwal, Zimin Zhang, Lifan Yuan, Jiawei Han, Hao Peng.* **arXiv**  
    [[Paper]](https://arxiv.org/abs/2505.15134)
-
+5. **FR3E: First Return, Entropy-Eliciting Explore.**  <2025.07>  
+   *Tianyu Zheng, Tianshun Xing, Qingshui Gu, Taoran Liang, Xingwei Qu, Xin Zhou, Yizhi Li, Zhoufutu Wen, Chenghua Lin, Wenhao Huang, Qian Liu, Ge Zhang, Zejun Ma*  **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2507.07017)
+6. **Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models.**  <2025.08>  
+   *Zhipeng Chen, Xiaobo Qin, Youbin Wu, Yue Ling, Qinghao Ye, Wayne Xin Zhao, Guang Shi.*  **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2508.10751)
 ---
 
 <h3 id="rlvr-analysis">RLVR Analysis</h3>
@@ -189,7 +216,16 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
     [[Paper]](https://arxiv.org/abs/2506.01713) [[Code]](https://srpo.pages.dev/)
 2. **R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning** <2025.05>   
     *Jiaxing Zhao, Xihan Wei, Liefeng Bo*  **arXiv**   
-    [[Paper]](https://arxiv.org/abs/2503.05379) [[Code]](https://github.com/HumanMLLM/R1-Omni)  
+    [[Paper]](https://arxiv.org/abs/2503.05379) [[Code]](https://github.com/HumanMLLM/R1-Omni)
+3. **R1-VL: Learning to Reason with Multimodal Large Language Models via Step-Wise GRPO.**  <2025.03>  
+   *Jingyi Zhang, Jiaxing Huang, Huanjin Yao, Shunyu Liu, Xikun Zhang, Shijian Lu, Dacheng Tao.*  **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2503.12937)
+4. **VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning.**  <2025.04>  
+   *Haozhe Wang, Chao Qu, Zuming Huang, Wei Chu, Fangzhen Lin, Wenhu Chen.*  **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2504.08837)
+5. **GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training.**  <2025.03>  
+   *Tong Wei, Yijun Yang, Junliang Xing, Yuanchun Shi, Zongqing Lu, Deheng Ye.*  **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2503.08525)
 
 ---
 <h3 id="evaluation">Evaluation Issue </h3>
@@ -208,8 +244,10 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 4. **AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions.**  <2025.06>  
     *Polina Kirichenko, Shauli Ravfogel, Roee Aharoni, Yonatan Belinkov.*  **arXiv**  
     [[Paper]](https://arxiv.org/abs/2506.09038)
-
-
+5. **IFBench: Generalizing Verifiable Instruction Following.**  <2025.07>  
+   *Valentina Pyatkin, Saumya Malik, Victoria Graf, Hamish Ivison, Shengyi Huang, Pradeep Dasigi, Nathan Lambert, Hannaneh Hajishirzi.*  **arXiv**  
+   [[Paper]](https://arxiv.org/abs/2507.02833) [[Code]](https://github.com/allenai/if-bench)
+ 
 --- 
 
 <h2 id="blogs">📚 Awesome Blogs about RLVR</h2>
