@@ -5,27 +5,36 @@ on:
     - cron: '0 8 * * 1'  # Every Monday at 8 AM UTC
   workflow_dispatch:
 
+# Required so GitHub Actions can push changes back to the repo
+permissions:
+  contents: write
+
 jobs:
   update-papers:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10
+          # MUST be quoted — unquoted 3.10 becomes 3.1 and breaks the runner
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: |
+          pip install --upgrade pip
+          pip install feedparser
 
       - name: Run arXiv updater script
         run: python update_rlvr_papers.py
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "chore: auto-update RLVR papers from arXiv" || echo "No changes to commit"
           git push
