@@ -10,10 +10,22 @@ section_marker = "### 🔄 Auto-Fetched Recent Papers"
 
 
 # --- Get Papers ---
+from urllib.parse import urlencode, quote
+
 def fetch_arxiv_results():
-    base_url = "http://export.arxiv.org/api/query?"
-    query = f"search_query={search_query}&sortBy=lastUpdatedDate&sortOrder=descending&max_results={max_results}"
-    feed = feedparser.parse(base_url + query)
+    base_url = "https://export.arxiv.org/api/query?"
+
+    search_query = '(ti:RLVR OR abs:RLVR OR (ti:"reinforcement learning" AND ti:"verifiable reward") OR (abs:"reinforcement learning" AND abs:"verifiable reward"))'
+
+    params = {
+        "search_query": search_query,
+        "sortBy": "lastUpdatedDate",
+        "sortOrder": "descending",
+        "max_results": 50,
+    }
+    url = base_url + urlencode(params, quote_via=quote)
+
+    feed = feedparser.parse(url)
     return feed.entries
 
 
