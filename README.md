@@ -41,6 +41,106 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 ---
 
 ### 🔄 Auto-Fetched Recent Papers
+- **Self-Distilled RLVR** <2026-04-03>  
+  *Chenxu Yang, Chuanyu Qin, Qingyi Si, Minghui Chen, Naibin Gu, Dingyu Yao, Zheng Lin, Weiping Wang, Jiaqi Wang, Nan Duan*. [[Paper]](https://arxiv.org/abs/2604.03128v1)
+- **ERPO: Token-Level Entropy-Regulated Policy Optimization for Large Reasoning Models** <2026-04-03>  
+  *Song Yu, Li Li, Wenwen Zhao, Zhisheng Yang*. [[Paper]](https://arxiv.org/abs/2603.28204v2)
+- **Reinforcement Learning-based Knowledge Distillation with LLM-as-a-Judge** <2026-04-03>  
+  *Yiyang Shen, Lifu Tu, Weiran Wang*. [[Paper]](https://arxiv.org/abs/2604.02621v1)
+- **Future Policy Approximation for Offline Reinforcement Learning Improves Mathematical Reasoning** <2026-04-03>  
+  *Minjae Oh, Yunho Choi, Dongmin Choi, Yohan Jo*. [[Paper]](https://arxiv.org/abs/2509.19893v2)
+- **Reinforcement Learning from Human Feedback: A Statistical Perspective** <2026-04-02>  
+  *Pangpang Liu, Chengchun Shi, Will Wei Sun*. [[Paper]](https://arxiv.org/abs/2604.02507v1)
+- **Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing** <2026-04-02>  
+  *Gengsheng Li, Tianyu Yang, Junfeng Fang, Mingyang Song, Mao Zheng, Haiyun Guo, Dan Zhang, Jinqiao Wang, Tat-Seng Chua*. [[Paper]](https://arxiv.org/abs/2604.02288v1)
+- **Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning** <2026-04-02>  
+  *Rafael Pardinas, Ehsan Kamalloo, David Vazquez, Alexandre Drouin*. [[Paper]](https://arxiv.org/abs/2604.02007v1)
+- **Not All Tokens See Equally: Perception-Grounded Policy Optimization for Large Vision-Language Models** <2026-04-02>  
+  *Zekai Ye, Qiming Li, Xiaocheng Feng, Ruihan Chen, Ziming Li, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin*. [[Paper]](https://arxiv.org/abs/2604.01840v1)
+- **ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement** <2026-04-02>  
+  *Difan Jiao, Qianfeng Wen, Blair Yang, Zhenwei Tang, Ashton Anderson*. [[Paper]](https://arxiv.org/abs/2604.01591v1)
+- **Policy Improvement Reinforcement Learning** <2026-04-01>  
+  *Huaiyang Wang, Xiaojie Li, Deqing Wang, Haoyi Zhou, Zixuan Huang, Yaodong Yang, Jianxin Li, Yikun Ban*. [[Paper]](https://arxiv.org/abs/2604.00860v1)
+- **RefineRL: Advancing Competitive Programming with Self-Refinement Reinforcement Learning** <2026-04-01>  
+  *Shaopeng Fu, Xingxing Zhang, Li Dong, Di Wang, Furu Wei*. [[Paper]](https://arxiv.org/abs/2604.00790v1)
+- **Learning to Hint for Reinforcement Learning** <2026-04-01>  
+  *Yu Xia, Canwen Xu, Zhewei Yao, Julian McAuley, Yuxiong He*. [[Paper]](https://arxiv.org/abs/2604.00698v1)
+- **Execution-Verified Reinforcement Learning for Optimization Modeling** <2026-04-01>  
+  *Runda Guan, Xiangqing Shen, Jiajun Zhang, Yifan Zhang, Jian Cheng, Rui Xia*. [[Paper]](https://arxiv.org/abs/2604.00442v1)
+- **Replacing Multi-Step Assembly of Data Preparation Pipelines with One-Step LLM Pipeline Generation for Table QA** <2026-04-01>  
+  *Fengyu Li, Junhao Zhu, Kaishi Song, Lu Chen, Zhongming Yao, Tianyi Li, Christian S. Jensen*. [[Paper]](https://arxiv.org/abs/2602.22721v2)
+- **Reinforced Reasoning for End-to-End Retrosynthetic Planning** <2026-03-31>  
+  *Chenyang Zuo, Siqi Fan, Yizhen Luo, Zaiqing Nie*. [[Paper]](https://arxiv.org/abs/2603.29723v1)
+- **Towards Policy-Adaptive Image Guardrail: Benchmark and Method** <2026-03-31>  
+  *Caiyong Piao, Zhiyuan Yan, Haoming Xu, Yunzhen Zhao, Kaiqing Lin, Feiyang Xu, Shuigeng Zhou*. [[Paper]](https://arxiv.org/abs/2603.01228v2)
+- **When Rubrics Fail: Error Enumeration as Reward in Reference-Free RL Post-Training for Virtual Try-On** <2026-03-31>  
+  *Wisdom Ikezogwo, Mehmet Saygin Seyfioglu, Ranjay Krishna, Karim Bouyarmane*. [[Paper]](https://arxiv.org/abs/2603.05659v2)
+- **ReViSQL: Achieving Human-Level Text-to-SQL** <2026-03-30>  
+  *Yuxuan Zhu, Tengjun Jin, Yoojin Choi, Daniel Kang*. [[Paper]](https://arxiv.org/abs/2603.20004v2)
+- **SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning** <2026-03-30>  
+  *Philip Schroeder, Thomas Weng, Karl Schmeckpeper, Eric Rosen, Stephen Hart, Ondrej Biza*. [[Paper]](https://arxiv.org/abs/2603.28730v1)
+- **Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning** <2026-03-30>  
+  *Ziqi Miao, Haonan Jia, Lijun Li, Chen Qian, Yuan Xiong, Wenting Yan, Jing Shao*. [[Paper]](https://arxiv.org/abs/2603.28618v1)
+- **Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation** <2026-03-30>  
+  *Zhiqi Yu, Zhangquan Chen, Mengting Liu, Heye Zhang, Liangqiong Qu*. [[Paper]](https://arxiv.org/abs/2602.05548v3)
+- **SARL: Label-Free Reinforcement Learning by Rewarding Reasoning Topology** <2026-03-30>  
+  *Yifan Wang, Bolian Li, David Cho, Ruqi Zhang, Fanping Sui, Ananth Grama*. [[Paper]](https://arxiv.org/abs/2603.27977v1)
+- **Wan-R1: Verifiable-Reinforcement Learning for Video Reasoning** <2026-03-29>  
+  *Ming Liu, Yunbei Zhang, Shilong Liu, Liwen Wang, Wensheng Zhang*. [[Paper]](https://arxiv.org/abs/2603.27866v1)
+- **Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models** <2026-03-28>  
+  *Yuhang Han, Yuyang Wu, Zhengbo Jiao, Yiyu Wang, Xuyang Liu, Shaobo Wang, Hanlin Xu, Xuming Hu, Linfeng Zhang*. [[Paper]](https://arxiv.org/abs/2603.27375v1)
+- **Incentivizing Temporal-Awareness in Egocentric Video Understanding Models** <2026-03-28>  
+  *Zhiyang Xu, Tian Qin, Bowen Jin, Zhengfeng Lai, Meng Cao, Lifu Huang, Peng Zhang*. [[Paper]](https://arxiv.org/abs/2603.27184v1)
+- **From Exploration to Exploitation: A Two-Stage Entropy RLVR Approach for Noise-Tolerant MLLM Training** <2026-03-28>  
+  *Donglai Xu, Hongzheng Yang, Yuzhi Zhao, Pingping Zhang, Jinpeng Chen, Wenao Ma, Zhijian Hou, Mengyang Wu, Xiaolei Li, Senkang Hu, Ziyi Guan, Jason Chun Lok Li, Lai Man Po*. [[Paper]](https://arxiv.org/abs/2511.07738v2)
+- **Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR** <2026-03-27>  
+  *Jinda Lu, Junkang Wu, Jinghan Li, Kexin Huang, Shuo Yang, Mingzhu Chen, Jiancan Wu, Kuien Liu, Xiang Wang*. [[Paper]](https://arxiv.org/abs/2603.26126v1)
+- **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** <2026-03-27>  
+  *Boxin Wang, Chankyu Lee, Nayeon Lee, Sheng-Chieh Lin, Wenliang Dai, Yang Chen, Yangyi Chen, Zhuolin Yang, Zihan Liu, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping*. [[Paper]](https://arxiv.org/abs/2512.13607v2)
+- **Do Language Models Follow Occam's Razor? An Evaluation of Parsimony in Inductive and Abductive Reasoning** <2026-03-26>  
+  *Yunxin Sun, Abulhair Saparov*. [[Paper]](https://arxiv.org/abs/2509.03345v2)
+- **P^2O: Joint Policy and Prompt Optimization** <2026-03-26>  
+  *Xinyu Lu, Kaiqi Zhang, Jinglin Yang, Boxi Cao, Yaojie Lu, Hongyu Lin, Min He, Xianpei Han, Le Sun*. [[Paper]](https://arxiv.org/abs/2603.21877v2)
+- **TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs** <2026-03-26>  
+  *Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang*. [[Paper]](https://arxiv.org/abs/2512.14698v2)
+- **MSRL: Scaling Generative Multimodal Reward Modeling via Multi-Stage Reinforcement Learning** <2026-03-26>  
+  *Chenglong Wang, Yifu Huo, Yang Gan, Qiaozhi He, Qi Meng, Bei Li, Yan Wang, Junfu Liu, Tianhua Zhou, Jingbo Zhu, Tong Xiao*. [[Paper]](https://arxiv.org/abs/2603.25108v1)
+- **Bridging Perception and Reasoning: Token Reweighting for RLVR in Multimodal LLMs** <2026-03-26>  
+  *Jinda Lu, Junkang Wu, Jinghan Li, Kexin Huang, Shuo Yang, Guoyin Wang, Jiancan Wu, Xiang Wang, Xiangnan He*. [[Paper]](https://arxiv.org/abs/2603.25077v1)
+- **Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR** <2026-03-25>  
+  *Haobo Xu, Sirui Chen, Ruizhong Qiu, Yuchen Yan, Chen Luo, Monica Cheng, Jingrui He, Hanghang Tong*. [[Paper]](https://arxiv.org/abs/2603.24840v1)
+- **Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization** <2026-03-25>  
+  *Fei Bai, Zhipeng Chen, Chuan Hao, Ming Yang, Ran Tao, Bryan Dai, Wayne Xin Zhao, Jian Yang, Hongteng Xu*. [[Paper]](https://arxiv.org/abs/2603.24093v1)
+- **Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought** <2026-03-24>  
+  *Yunheng Li, Hangyi Kuang, Hengrui Zhang, Jiangxia Cao, Zhaojie Liu, Qibin Hou, Ming-Ming Cheng*. [[Paper]](https://arxiv.org/abs/2603.22847v1)
+- **Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs** <2026-03-23>  
+  *Haoming Meng, Kexin Huang, Shaohang Wei, Chiyu Ma, Shuo Yang, Xue Wang, Guoyin Wang, Bolin Ding, Jingren Zhou*. [[Paper]](https://arxiv.org/abs/2603.22446v1)
+- **CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation** <2026-03-23>  
+  *Max Fu, Justin Yu, Karim El-Refai, Ethan Kou, Haoru Xue, Huang Huang, Wenli Xiao, Guanzhi Wang, Fei-Fei Li, Guanya Shi, Jiajun Wu, Shankar Sastry, Yuke Zhu, Ken Goldberg, Linxi "Jim" Fan*. [[Paper]](https://arxiv.org/abs/2603.22435v1)
+- **SpatialReward: Verifiable Spatial Reward Modeling for Fine-Grained Spatial Consistency in Text-to-Image Generation** <2026-03-23>  
+  *Sashuai Zhou, Qiang Zhou, Junpeng Ma, Yue Cao, Ruofan Hu, Ziang Zhang, Xiaoda Yang, Zhibin Wang, Jun Song, Cheng Yu, Bo Zheng, Zhou Zhao*. [[Paper]](https://arxiv.org/abs/2603.22228v1)
+- **Agnostics: Learning to Code in Any Programming Language via Reinforcement with a Universal Learning Environment** <2026-03-23>  
+  *Aleksander Boruch-Gruszecki, Yangtian Zi, Zixuan Wu, Tejas Oberoi, Carolyn Jane Anderson, Joydeep Biswas, Arjun Guha*. [[Paper]](https://arxiv.org/abs/2508.04865v3)
+- **On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation** <2026-03-23>  
+  *Kexin Huang, Haoming Meng, Junkang Wu, Jinda Lu, Chiyu Ma, Ziqian Chen, Xue Wang, Bolin Ding, Jiancan Wu, Xiang Wang, Xiangnan He, Guoyin Wang, Jingren Zhou*. [[Paper]](https://arxiv.org/abs/2603.22117v1)
+- **Native Reasoning Models: Training Language Models to Reason on Unverifiable Data** <2026-03-23>  
+  *Yuanfu Wang, Zhixuan Liu, Xiangtian Li, Chaochao Lu, Chao Yang*. [[Paper]](https://arxiv.org/abs/2602.11549v2)
+- **Learning to Reason without External Rewards** <2026-03-23>  
+  *Xuandong Zhao, Zhewei Kang, Aosong Feng, Sergey Levine, Dawn Song*. [[Paper]](https://arxiv.org/abs/2505.19590v4)
+- **Prompt replay: speeding up grpo with on-policy reuse of high-signal prompts** <2026-03-22>  
+  *Andrei Baroian, Rutger Berger*. [[Paper]](https://arxiv.org/abs/2603.21177v1)
+- **WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement** <2026-03-22>  
+  *Fangyuan Li, Pengfei Li, Shijie Wang, Junqi Gao, Jianxing Liu, Biqing Qi, Yuqiang Li*. [[Paper]](https://arxiv.org/abs/2603.22352v1)
+- **Advantage Shaping as Surrogate Reward Maximization: Unifying Pass@K Policy Gradients** <2026-03-21>  
+  *Christos Thrampoulidis, Sadegh Mahdavi, Wenlong Deng*. [[Paper]](https://arxiv.org/abs/2510.23049v3)
+- **RLVR Training of LLMs Does Not Improve Thinking Ability for General QA: Evaluation Method and a Simple Solution** <2026-03-21>  
+  *Kaiyuan Li, Jing-Cheng Pang, Yang Yu*. [[Paper]](https://arxiv.org/abs/2603.20799v1)
+- **Grounded Chess Reasoning in Language Models via Master Distillation** <2026-03-20>  
+  *Zhenwei Tang, Qianfeng Wen, Seth Grief-Albert, Yahya Elgabra, Blair Yang, Honghua Dong, Ashton Anderson*. [[Paper]](https://arxiv.org/abs/2603.20510v1)
+- **Think and Answer ME: Benchmarking and Exploring Multi-Entity Reasoning Grounding in Remote Sensing** <2026-03-20>  
+  *Shuchang Lyu, Haiquan Wen, Guangliang Cheng, Meng Li, Zheng Zhou, You Zhou, Dingding Yao, Zhenwei Shi*. [[Paper]](https://arxiv.org/abs/2603.12788v2)
+- **ReLaX: Reasoning with Latent Exploration for Large Reasoning Models** <2026-03-20>  
+  *Shimin Zhang, Xianwei Chen, Yufan Shen, Ziyuan Ye, Jibin Wu*. [[Paper]](https://arxiv.org/abs/2512.07558v2)
 - **Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR** <2026-03-27>  
   *Jinda Lu, Junkang Wu, Jinghan Li, Kexin Huang, Shuo Yang, Mingzhu Chen, Jiancan Wu, Kuien Liu, Xiang Wang*. [[Paper]](https://arxiv.org/abs/2603.26126v1)
 - **Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models** <2026-03-27>  
