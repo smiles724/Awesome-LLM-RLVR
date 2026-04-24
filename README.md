@@ -1749,6 +1749,9 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 [SemiAnalysis](https://semianalysis.com/2025/06/08/scaling-reinforcement-learning-environments-reward-hacking-agents-scaling-data/): 
 Scaling Reinforcement Learning: Environments, Reward Hacking, Agents, Scaling Data.    
 
+[Reinforcement Learning from Verifiable Rewards](https://rlvrbook.com/):  
+Reference book on verifier design, RLVR training signals, reward hacking, search/test-time verification, and agentic RLVR.
+
 
 ---
 
