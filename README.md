@@ -2042,6 +2042,12 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 
 <h3 id="rlvr-foundations">RLVR Foundations</h3>
 
+<h4>2026</h4>
+
+1. **Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering.**   <2026.05>   
+    *Shicheng Fan, Haochang Hao, Dehai Min, Weihao Liu, Philip S. Yu, Lu Cheng.*    **arXiv**   
+    [[Paper]](https://arxiv.org/abs/2605.29648) [[Code]](https://github.com/shichengf/CorVer)
+
 <h4>2025</h4>
 
 1. **Optimizing Anytime Reasoning via Budget Relative Policy Optimization.**   <2025.06>   
