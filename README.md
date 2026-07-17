@@ -2885,6 +2885,7 @@ Reference book on verifier design, RLVR training signals, reward hacking, search
 - 【[MARTI](https://github.com/TsinghuaC3I/MARTI)】 -- A Framework for LLM-based Multi-Agent Reinforced Training and Inference.  ![GitHub Stars](https://img.shields.io/github/stars/TsinghuaC3I/MARTI?style=social)
 - 【[OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) 】-- An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray. ![GitHub Stars](https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social)
 - 【[ROLL](https://github.com/alibaba/ROLL)】-- An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models. ![GitHub Stars](https://img.shields.io/github/stars/alibaba/ROLL?style=social)
+- 【[polgrad](https://github.com/SaifPunjwani/polgrad)】 -- Reference semantics, conformance testing, and pathology diagnostics for LLM policy-gradient post-training losses. ![GitHub Stars](https://img.shields.io/github/stars/SaifPunjwani/polgrad?style=social)
 
 <h2>💡 Other Awesome Lists</h2>
 
