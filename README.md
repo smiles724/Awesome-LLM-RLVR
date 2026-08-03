@@ -41,6 +41,106 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 ---
 
 ### 🔄 Auto-Fetched Recent Papers
+- **SAF-OPD: Stable Advantage Fusion for On-Policy Distillation** <2026-07-31>  
+  *Yifan Ding, Xincheng Wei, Yoshua Y. Li, Ziheng Li, Yuquan Lu, Siyu Zhang, Dongsheng Ma, Rongxiang Weng, Xunliang Cai, Yun Chen*. [[Paper]](https://arxiv.org/abs/2607.29209v1)
+- **ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning** <2026-07-31>  
+  *Xucong Wang, Ziyu Ma, Yong Wang, Shidong Yang, Hailang Huang, Renda Li, Pengkun Wang, Xiangxiang Chu*. [[Paper]](https://arxiv.org/abs/2606.13316v2)
+- **GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR** <2026-07-31>  
+  *Jiaying Zhang, Lei Shi, Jiguo Li, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He*. [[Paper]](https://arxiv.org/abs/2601.09361v4)
+- **From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement** <2026-07-31>  
+  *Qinsi Wang, Jing Shi, Huazheng Wang, Kun Wan, Yiran Wu, Bo Liu, Qingyun Wu, Hai Helen Li, Yiran Chen, Handong Zhao, Wentian Zhao*. [[Paper]](https://arxiv.org/abs/2607.23802v2)
+- **Cybersecurity Detection Classification with Reasoning-enabled Language Models** <2026-07-30>  
+  *Amol Khanna, Manu Nandan, Cristian Viorel Popa, Joan Pujol-Roig, Diana Bolocan, Laura Vasilie, Alexandru Apostu, Chase Helwig, Mihaela Gaman, Michael Brautbar, Edward Raff, Chase Midler, Sven Krasser*. [[Paper]](https://arxiv.org/abs/2607.28460v1)
+- **LEEPS: Latent-Guided Explore-Exploit Prompt Sampling for Efficient RLVR in Large Language Models** <2026-07-30>  
+  *Shuang Liang, Haoyang Zhou, Yifan Gong, Guowei Wang, Xiting Wang*. [[Paper]](https://arxiv.org/abs/2607.28077v1)
+- **Group-Reflective Self-Distillation for Agentic Reinforcement Learning** <2026-07-30>  
+  *Binbin Zheng, Zijun Xie, Guanqun Zhao, Enlei Gong, Xing Ma, Xiaoliang Fu, Zeyu Chen*. [[Paper]](https://arxiv.org/abs/2607.28076v1)
+- **Contrastive Reinforced Policy Optimization via Privileged Self-Distillation** <2026-07-30>  
+  *Xingjian Wu, Junlin Liu, Xingchen Liu, Xuhang Zhu, Jianing Wang, Linsen Guo, Xiaoyu Li, Xuezhi Cao, Xunliang Cai*. [[Paper]](https://arxiv.org/abs/2607.28026v1)
+- **Beyond Binary Rewards: A Comparative Study of Reward Design for Reinforcement Unlearning** <2026-07-30>  
+  *Efstratios Zaradoukas, Davide Gabrielli, Bardh Prenkaj, Gjergji Kasneci*. [[Paper]](https://arxiv.org/abs/2607.27968v1)
+- **Variance-Aware Baselines and Adaptive Learning Rates for Reinforcement Learning with Verifiable Rewards** <2026-07-30>  
+  *Zixun Huang, Jiayi Sheng, Zeyu Zheng*. [[Paper]](https://arxiv.org/abs/2511.23310v3)
+- **From Synthetic to Real: Toward Identity-Consistent Makeup Transfer with Synthetic and Real Data** <2026-07-30>  
+  *Yue Yu, Jiayu Wang, Jiajia Shi, Zhiyu Tan, Hao Li, Jingjing Chen*. [[Paper]](https://arxiv.org/abs/2605.07861v2)
+- **Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Credit Reallocation for Long-CoT Reasoning** <2026-07-30>  
+  *Qiangqiang He, Zhongheng Wu, ZiJian Wang*. [[Paper]](https://arxiv.org/abs/2607.27888v1)
+- **LoRA Scaffolded Policy Optimization (LSPO): A Sampling-Time Low-Rank Scaffold for Recovering Reinforcement-Learning Gradient on Zero-Reward Cliff Prompts** <2026-07-30>  
+  *Ken Ding*. [[Paper]](https://arxiv.org/abs/2607.27787v1)
+- **PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning** <2026-07-30>  
+  *Yipeng Shi, Zhipeng Ma, Yue Wang, Qitai Tan, Yang Li, Peng Chen, Zhengzhou Zhu*. [[Paper]](https://arxiv.org/abs/2607.21419v2)
+- **Noisy Data is Destructive to Reinforcement Learning with Verifiable Rewards** <2026-07-29>  
+  *Yuxuan Zhu, Daniel Kang*. [[Paper]](https://arxiv.org/abs/2603.16140v2)
+- **Early Verdicts, Better Budgets: Sequential Adaptive Rollout Allocation for Compute-Efficient RLVR** <2026-07-28>  
+  *Pixel Nomand, Elena Voss, Marcus Hale, Sofia Reyes*. [[Paper]](https://arxiv.org/abs/2607.26253v1)
+- **Reinforcement Learning for Code Optimization** <2026-07-28>  
+  *Pierre Chambon, Kunhao Zheng, Juliette Decugis, Benoit Sagot, Gabriel Synnaeve*. [[Paper]](https://arxiv.org/abs/2607.25970v1)
+- **CAST: Game Solvers as Turn-Level Teachers for LLM Agents** <2026-07-28>  
+  *Yu Wang, Yi-Kai Zhang, Wentao Shi, Ziang Ye, Yuchun Miao, Yueqing Sun, Qi Gu, Xunliang Cai, Lan-Zhe Guo, Han-Jia Ye, Fuli Feng*. [[Paper]](https://arxiv.org/abs/2607.25308v1)
+- **Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT** <2026-07-27>  
+  *Cen Lu, Yung-Chen Tang, Andrea Cavallaro*. [[Paper]](https://arxiv.org/abs/2607.25063v1)
+- **Hint-Guided Diversified Policy Optimization for LLM Reasoning** <2026-07-27>  
+  *Zhiyu Cao, Kaixin Wu, Mingjie Zhong, Peifeng Li, Can Ye, Qiaoming Zhu*. [[Paper]](https://arxiv.org/abs/2606.03021v3)
+- **H$^2$SD: Hybrid Hindsight Self-Distillation** <2026-07-27>  
+  *Qiye Cai, Yichuan Ma, Peiji Li, Yongkang Chen, Qipeng Guo, Yicheng Zou, Linyang Li, Xiaocheng Feng, Bing Qin*. [[Paper]](https://arxiv.org/abs/2607.18955v4)
+- **SLPO: Scaling Latent Reasoning via a Surrogate Policy** <2026-07-27>  
+  *Runyang You, Zhiyuan Liu, Yongqi Li, Wenjie Li*. [[Paper]](https://arxiv.org/abs/2607.19691v2)
+- **Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers** <2026-07-26>  
+  *Xingyue Huang, Rishabh, Gregor Franke, Ziyi Yang, Jiamu Bai, Weijie Bai, Jinhe Bi, Zifeng Ding, Yiqun Duan, Chengyu Fan, Wendong Fan, Xin Gao, Ruohao Guo, Yuan He, Zhuangzhuang He, Xianglong Hu, Neil Johnson, Bowen Li, Fangru Lin, Siyu Lin, Tong Liu, Yunpu Ma, Hao Shen, Hao Sun, Beibei Wang, Fangyijie Wang, Hao Wang, Haoran Wang, Yang Wang, Yifeng Wang, Zhaowei Wang, Ziyang Wang, Yifan Wu, Zikai Xiao, Chengxing Xie, Fan Yang, Junxiao Yang, Qianshuo Ye, Ziyu Ye, Guangtao Zeng, Yuwen Ebony Zhang, Zeyu Zhang, Zihao Zhu, Bernard Ghanem, Philip Torr, Guohao Li*. [[Paper]](https://arxiv.org/abs/2509.03059v2)
+- **Artificial Intelligence for Mathematical Reasoning: An Integrated Survey of Language Models, Neuro-symbolic Systems, and Verified Discovery** <2026-07-26>  
+  *Syed Rifat Raiyan, Mohsinul Kabir, Hasan Mahmud, Md Kamrul Hasan, Sophia Ananiadou*. [[Paper]](https://arxiv.org/abs/2606.08728v4)
+- **Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction** <2026-07-25>  
+  *Chaoqun Cui, Jing Huang, Shijing Wang, Liming Zheng, Qingchao Kong, Zhixiong Zeng*. [[Paper]](https://arxiv.org/abs/2602.00575v2)
+- **Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests** <2026-07-24>  
+  *Patrick Rim, Tom Long, Ekta Prashnani, Ruth Rosenholtz, Ben Boudaoud, Peter Xenopoulos, Alex Wong, Joohwan Kim, Jae-Hyun Jung*. [[Paper]](https://arxiv.org/abs/2607.22864v1)
+- **Learning as Reasoning Unfolds: Progressive Rollout Allocation for Efficient Reinforcement Learning** <2026-07-24>  
+  *Heyang Jiang, Henry Liu, Baharan Mirzasoleiman*. [[Paper]](https://arxiv.org/abs/2607.22002v1)
+- **Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning** <2026-07-24>  
+  *Shujin Wu, Cheng Qian, Xiusi Chen, Heng Ji*. [[Paper]](https://arxiv.org/abs/2607.21971v1)
+- **AdaKP: Online Adaptive Knowledge-Point Selection for Reasoning-Oriented Reinforcement Learning** <2026-07-23>  
+  *Zibin Meng, Zhenyu Zhao, Chunqiang Run*. [[Paper]](https://arxiv.org/abs/2607.24833v1)
+- **How Many Bits Can an Adapter Write? Measuring the Capacity and Memorization of Parameter-Efficient Fine-Tuning** <2026-07-23>  
+  *Kaizhen Tan, Heqing Du, Yang Feng*. [[Paper]](https://arxiv.org/abs/2607.21351v1)
+- **Multi-turn RL with Structural and Performance Aware Rewards for CUDA Kernel Generation** <2026-07-23>  
+  *Quazi Ishtiaque Mahmud, Nesreen K. Ahmed, Ali Jannesari*. [[Paper]](https://arxiv.org/abs/2607.20908v1)
+- **Experience Augmented Policy Optimization for LLM Reasoning** <2026-07-22>  
+  *Jinda Lu, Kexin Huang, Junkang Wu, Shuo Yang, Jinghan Li, Chiyu Ma, Shaohang Wei, Xiang Wang, Guoyin Wang, Jingren Zhou*. [[Paper]](https://arxiv.org/abs/2606.30420v2)
+- **Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning** <2026-07-22>  
+  *Md Tanvirul Alam*. [[Paper]](https://arxiv.org/abs/2607.19790v1)
+- **ISO: An RLVR-Native Optimization Stack** <2026-07-21>  
+  *Hanqing Zhu, Wenyan Cong, Zhizhou Sha, Sagnik Mukherjee, Xinyuan Song, David González-Martínez, Xiaoxia Wu, Yuandong Tian, Shiwei Liu, David Z. Pan, Zhangyang "Atlas" Wang*. [[Paper]](https://arxiv.org/abs/2607.19331v1)
+- **Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information** <2026-07-21>  
+  *Priyank Agrawal, Ankur Samanta, Shervin Ghasemlou, Jalaj Bhandari, Kavosh Asadi, Daniel Jiang, Aditya Modi*. [[Paper]](https://arxiv.org/abs/2607.19313v1)
+- **The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation** <2026-07-21>  
+  *Michael Jungo, Aixiu An*. [[Paper]](https://arxiv.org/abs/2607.19226v1)
+- **Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning** <2026-07-21>  
+  *Aixiu An, Michael Jungo, Eloi Eynard, Mark Drenhaus, Andreas Fischer, Jean Hennebert, Sébastien Rumley*. [[Paper]](https://arxiv.org/abs/2607.19181v1)
+- **Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation** <2026-07-21>  
+  *Mingxuan Ouyang, Hao Lan, Wanyu Lin*. [[Paper]](https://arxiv.org/abs/2607.19044v1)
+- **LenGuard-GPC: Length Guarding with Guided-Prompt Consistency for Spatial Reasoning Reinforce Learning** <2026-07-19>  
+  *Xingjian Tao, Yiwei Wang, Yujun Cai, Jing Tang*. [[Paper]](https://arxiv.org/abs/2607.17243v1)
+- **Implicit Actor Critic Coupling via a Supervised Learning Framework for RLVR** <2026-07-18>  
+  *Jiaming Li, Longze Chen, Ze Gong, Yukun Chen, Lu Wang, Wanwei He, Run Luo, Min Yang*. [[Paper]](https://arxiv.org/abs/2509.02522v3)
+- **Understanding Reasoning from Pretraining to Post-Training** <2026-07-17>  
+  *Jingyan Shen, Ang Li, Salman Rahman, Yifan Sun, Micah Goldblum, Matus Telgarsky, Pavel Izmailov*. [[Paper]](https://arxiv.org/abs/2607.16097v1)
+- **Atomic Design Transformer: Scaffold-Conditioned 3D Molecule Generation via xTB-Reward Reinforcement Learning** <2026-07-17>  
+  *Takao Kotani*. [[Paper]](https://arxiv.org/abs/2607.15918v1)
+- **Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization** <2026-07-16>  
+  *Weiwen Xu, Jia Liu, Hou Pong Chan, Long Li, Deng Cai, Min Chen, Hao Zhang*. [[Paper]](https://arxiv.org/abs/2607.14614v1)
+- **Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning** <2026-07-16>  
+  *Xinyu Tang, Qianggang Cao, Yurou Liu, Yuliang Zhan, Xiaochong Lan, Yifan Li, Yuchen Yan, Han Peng, Zican Dong, Zhenduo Zhang, Tianshu Wang, Xinyu Kong, Zujie Wen, Wayne Xin Zhao, Zhiqiang Zhang, Jun Zhou*. [[Paper]](https://arxiv.org/abs/2607.12395v2)
+- **Non-vacuous Generalization Bounds for Reinforcement Learning with Verifiable Rewards** <2026-07-16>  
+  *Yuxuan Zhu, Rohan Alur, Daniel Kang*. [[Paper]](https://arxiv.org/abs/2607.14506v1)
+- **SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning** <2026-07-15>  
+  *Cheng Tang, Junzhi Ning, Min Cen, Wei Li, Xinyi Zeng, Pinxian Zeng, Rongbin Li, Qiming Zhu, Yuqiang Li, Junjun He, Yirong Chen, Ming Hu*. [[Paper]](https://arxiv.org/abs/2607.13931v1)
+- **Joint On-and-Off Policy Learning for Vision-and-Language Navigation** <2026-07-15>  
+  *Qingrong He, Lin Zhao, Kevin Zheng, Liang Lin*. [[Paper]](https://arxiv.org/abs/2607.13461v1)
+- **SCOPE-RL: Optimizing Reasoning Paths Before and After Success** <2026-07-15>  
+  *Xiaojian Liu, Han Xu, Jianqiang Xia, Zhixuan Li, Ke Xu, Yiwei Dai, Xinran Chen, Changwo Wu, Yuchen Li*. [[Paper]](https://arxiv.org/abs/2607.11506v2)
+- **Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations** <2026-07-15>  
+  *Rui Wang, Hongru Wang, Yi Chen, Boyang Xue, Tianqing Fang, Wenhao Yu, Kam-Fai Wong*. [[Paper]](https://arxiv.org/abs/2607.13399v1)
+- **Verifier-Based Reinforcement Fine-Tuning of Reasoning Models for Thermal Energy Storage Control** <2026-07-14>  
+  *Takumi Shioda, Kohei Terashima, Tatsuo Nagai*. [[Paper]](https://arxiv.org/abs/2607.12856v1)
 - **H$^2$SD: Hybrid Hindsight Self-Distillation** <2026-07-24>  
   *Qiye Cai, Yichuan Ma, Linyang Li, Peiji Li, Yongkang Chen, Qipeng Guo, Yicheng Zou, Xiaocheng Feng, Bing Qin*. [[Paper]](https://arxiv.org/abs/2607.18955v3)
 - **Hint-Guided Diversified Policy Optimization for LLM Reasoning** <2026-07-24>  
