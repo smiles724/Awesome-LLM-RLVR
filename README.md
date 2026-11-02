@@ -41,6 +41,106 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
 ---
 
 ### 🔄 Auto-Fetched Recent Papers
+- **Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training** <2026-10-30>  
+  *Albert Bou, Javier Valdes-Aleman, Jon M. Laurent, Samuel G. Rodriques, Andrew D. White, Michaela Hinks, Siddharth Narayanan*. [[Paper]](https://arxiv.org/abs/2610.38851v2)
+- **CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness** <2026-10-30>  
+  *Xiao Yu, Justin Chih-Yao Chen, Zaid Khan, Hyunji Lee, Mohit Bansal*. [[Paper]](https://arxiv.org/abs/2610.42054v1)
+- **Step-wise Rubric Rewards for LLM Reasoning** <2026-10-30>  
+  *Weichu Xie, Haozhe Zhao, Wenpu Liu, Yongfu Zhu, Liang Chen, Minghao Ye, Zirong Chen, Yuqi Xu, Shuai Dong, Ziyue Wang, Xinbo Xu, Kean Shi, Ruoyu Wu, Xiaoying Zhang, Wenqi Shao, Baobao Chang, Nan Duan, Jiaqi Wang*. [[Paper]](https://arxiv.org/abs/2605.17291v2)
+- **Optimizing Anytime Reasoning via Budget Relative Policy Optimization** <2026-10-30>  
+  *Penghui Qi, Zichen Liu, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin*. [[Paper]](https://arxiv.org/abs/2505.13438v4)
+- **GRIT: Gradient Masking for Visually Misgrounded Tokens in Text-Rich Reasoning** <2026-10-30>  
+  *Chanseul Cho, Noori Bae, Dongheon Lee, Youngmin Ro*. [[Paper]](https://arxiv.org/abs/2610.41629v1)
+- **From Representation to Readout: Mechanistic Analysis of Membership Signals in Language Models** <2026-10-30>  
+  *Wenxi Dai, Jingyu Hu, Yanting Yang, Mengnan Du*. [[Paper]](https://arxiv.org/abs/2610.41445v1)
+- **Your Group-Relative Advantage Is Biased** <2026-10-30>  
+  *Fengkai Yang, Zherui Chen, Xiaohan Wang, Xiaodong Lu, Jiajun Chai, Guojun Yin, Wei Lin, Shuai Ma, Fuzhen Zhuang, Deqing Wang, Yaodong Yang, Jianxin Li, Yikun Ban*. [[Paper]](https://arxiv.org/abs/2601.08521v3)
+- **How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum** <2026-10-30>  
+  *Chu-Cheng Lin, Eugene Ie*. [[Paper]](https://arxiv.org/abs/2604.25907v3)
+- **SOPO: Socratic Guided Policy Optimization for Span-Level Hallucination Detection** <2026-10-30>  
+  *Jiawei Dong, Zilong Bai, Pengtian zhu, Peng Zhou*. [[Paper]](https://arxiv.org/abs/2610.32212v2)
+- **Steering Vectors as a Training Signal in LLM Post-Training** <2026-10-29>  
+  *Tiejin Chen, Maunil Vyas, Huaiyuan Yao, Hua Wei*. [[Paper]](https://arxiv.org/abs/2610.40998v1)
+- **ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender** <2026-10-29>  
+  *Qiyao Ma, Xiaodong Liu, Weiwei Yang, Mingqian Feng, Chengquan Guo, Jialin Song, Carolyn Buractaon, Zhe Zhao, Junshan Zhang, Sandeep Atluri, Christopher White, Jianfeng Gao*. [[Paper]](https://arxiv.org/abs/2610.40627v1)
+- **PIVOT: Progressive Intervention via Online Teacher Correction** <2026-10-29>  
+  *Zhihao Yang, Boyuan Zheng, Puhui Tan, Yukun Chen, Kuan Zhang, Longze Chen, Jiaming Li, Renke Shan, Lu Wang, Xianpei Han*. [[Paper]](https://arxiv.org/abs/2610.40576v1)
+- **SCARL: Sequence Confidence-Aligned Reinforcement Learning** <2026-10-29>  
+  *Zhenghong Ke, Jingbo Zhou, Hua Wu*. [[Paper]](https://arxiv.org/abs/2610.40407v1)
+- **Distributional Reward Calibration and Budget-Neutral Credit Assignment for Multimodal RLVR** <2026-10-29>  
+  *Lang Chen, Zongxin Xu, Borui Wang, Anran Liu, Shitong Chen*. [[Paper]](https://arxiv.org/abs/2610.40250v1)
+- **EnvOS: Auditing Computer-Use Agents When the World Moves On : Phenomenon-Based Task Construction, Certification, and Evidence-Based Evaluation** <2026-10-29>  
+  *Ankush Kadu, Athira Gopal, Niharika Singh, Arpit Jain, Aswanth Krishnan*. [[Paper]](https://arxiv.org/abs/2610.40246v1)
+- **H$^2$R: Hierarchical Hint-Based Reward for Mathematical Reasoning via Reinforcement Learning** <2026-10-29>  
+  *He Tu, Siye Li, Hongyi Wen*. [[Paper]](https://arxiv.org/abs/2610.39934v1)
+- **A Sign Law for Entropy Drift under Sampler Mismatch in RLVR** <2026-10-29>  
+  *Zhiyuan Wang, Jacob Steeves, Chang Liu*. [[Paper]](https://arxiv.org/abs/2610.34044v2)
+- **ASTOR: Multi-Task Code Reinforcement Learning via Utility-Driven Coordination** <2026-10-29>  
+  *Yujia Chen, Yang Ye, Xiao Chu, Yuchi Ma, Cuiyun Gao*. [[Paper]](https://arxiv.org/abs/2605.06111v2)
+- **There Is No Free Lunch in RLVR: Every pass@1 Gain Has a pass@k Price** <2026-10-29>  
+  *Yinuo Liu*. [[Paper]](https://arxiv.org/abs/2610.39295v1)
+- **Grounding Multimodal Reasoning with Evidence-Ablated Negatives** <2026-10-29>  
+  *Chenxi Liu, Tianyi Xiong, Yanshuo Chen, Heng Huang*. [[Paper]](https://arxiv.org/abs/2610.39237v1)
+- **Reasoning or Pattern Exploitation? Mechanistic Insights from RL-Trained Language Models** <2026-10-29>  
+  *Aishik Nagar, Cheston Tan*. [[Paper]](https://arxiv.org/abs/2610.39182v1)
+- **DUET: Optimize Token-Budget Allocation for Reinforcement Learning with Verifiable Rewards** <2026-10-28>  
+  *Haoyu Hu, Xuandong Zhao, Xuhai "Orson'' Xu, Nori Jacoby*. [[Paper]](https://arxiv.org/abs/2605.08441v2)
+- **Where to Spend Rollouts: Hit-Utility Optimal Rollout Allocation for Group-Based RLVR** <2026-10-28>  
+  *Tao Wang, Shuo Li, Yan Sun, Dongsheng Ding, Edgar Dobriban*. [[Paper]](https://arxiv.org/abs/2605.07114v2)
+- **OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning** <2026-10-28>  
+  *Haibo Wang, Jiteng Mu, Jialu Li, Jingru Yi, Yuanjun Xiong, Jianming Zhang, Lifu Huang, Mingze Xu*. [[Paper]](https://arxiv.org/abs/2610.02181v3)
+- **Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI** <2026-10-28>  
+  *NVIDIA, :, Aastha Jhunjhunwala, Aayushi Ashokkumar Srivastava, Abhibha Gupta, Abhinav Garg, Abhinav Khattar, Achsah Wildish, Adam Rajfer, Adi Renduchintala, Adil Asif, Adriana Flores Miranda, Aileen Zaman, Aishwarya Chhabra, Akanksha Shukla, Akhiad Bercovich, Alejandra Rico, Aleksa Gordic, Aleksander Ficek, Alex Gronskiy, Alex Steiner, Alexander Bukharin, Alexandre Milesi, Ali Roshan Ghias, Ali Shehper, Ali Taghibakhshi, Alice Gatti, Alisa Liu, Alok Kumar, Alok Tripathy, Amala Sanjay Deshmukh, Aman Miryala, Aman Shanbhag, Ameya Sunil Mahabaleshwarkar, Ameya Velingker, Amir Klein, Amir Samani, Amit Zuker, Amnon Geifman, Anahita Bhiwandiwalla, Ananth Subramaniam, Andre Manoel, Andrea Santilli, Andrew Tao, Andrii Skliar, Anil Thomas, Anish Mahishi, Anna Shors, Anna Warno, Anuj Doshi, Anusha Kamath, Anwith Kiran, Ao Tang, Arham Mehta, Arnab Dhara, Arnav Komaragiri, Arnav Kundu, Arti Jain, Arun Rao, Arun Venkatesan, Arushi Goel, Asha Anoosheh, Ashish Vaswani, Ashwath Aithal, Asif Ahamed, Asma Kuriparambil Thekkumpate, Aswin Visva, Atefeh Sohrabizadeh, Avinash Vem, Ayush Dattagupta, Benedikt Schifferer, Benjamin Chislett, Bernard Nguyen, Besmira Nushi, Bilal Kartal, Bita Darvish Rouhani, Bobby Chen, Boris Ginsburg, Boxin Wang, Brandon Norick, Branislav Kisacanin, Brendan Johnson, Brian Dang, Brian Yu, Bryan Catanzaro, Byung-Kwan Lee, Carlo del Mundo, Chankyu Lee, Chantal Hwang, Charles Wang, Charlie Truong, Chen Cui, Cheng Wang, Cheng-Ping Hsieh, Chenhan Yu, Chenjie Luo, Chintan Patel, Chris Alexiuk, Chris Johnson, Chris Wing, Christian Munley, Coco Li, Collin McCarthy, Cynthia Gao, Dan Su, Dan Zhao, Dane Corneil, Danial Mohseni Taheri, Daniel Afrimi, Daniel Fatade, Daniel Lo, Daniel Machlab, Daniel Serebrenik, Daniele Molinari, Daniil Sorokin, Daria Gitman, Daria Levy, David Mosallanezhad, David Yu, Deepak Narayanan, Dev Churiwala, Devin O'Kelly, Dhruv Nathawani, Di Allan Wu, Dima Rekesh, Dina Yared, Dipendra Misra, Divyanshu Kakwani, Dmitry Belenko, Dominic Manno, Dongyang Fan, Dor Tsur, Duncan Riach, Dustin VanStee, Dylan Lu, Edgar Minasyan, Ehsan Hosseini-Asl, Eileen Long, Elena Lantz, Ellie Evans, Elliott Ning, Elvis Chen, Emanuel Scoullos, Eric Chung, Eric Harper, Eric Pham-Hung, Eric Tramel, Eric Yang, Erik Arakelyan, Evelina Bakhturina, Ewa Dobrowolska, Fadi Saady, Farzan Memarian, Fay Wang, Fei Jia, Felipe Soares, Felipe Vieira Frujeri, Feng Chen, Fengguang Lin, Ferenc Galko, Frankie Siino, Frederic Lafrance, Fuxiao Liu, Gantavya Bhatt, Garvit Kulshreshtha, George Armstrong, Giulio Lovisotto, Gomathy Venkata Krishnan, Gosia Lazuka, Grace Lam, Greg Heinrich, Greg Pauloski, Grzegorz Chlebus, Guilin Liu, Guo Chen, Guoming Zhang, Guyue Huang, Haifeng Qian, Hanrong Ye, Hao Gao, Hao Zhang, Haoqin Tu, Haran Kumar Shiv Kumar, Haribhau Hud, Harris Nover, Harrison Saturley-Hall, Harshil Kotamreddy, Hemil Desai, Henry Estela, Hexin Wang, Himanshu Singh, Hui Wang, Hung-Yueh Chiang, Igor Gitman, Ilia Karmanov, Ilya Loshchilov, Ingo Guehring, Itay Neeman, Ivan Moshkov, Jacky Kwok, Jakub Slowikowski, James Shen, Jane Polak Scowcroft, Jared Casper, Jatin Mitra, Jeff Willette, Jenna Diamond, Jenny Chen, Jesse Oliver, Jessica Medina, Jiacheng Xu, Jialin Song, Jian Hu, Jian Tu, Jian Zhang, Jiantao Jiao, Jiaqi Zeng, Jie-Fang Zhang, Jimmy Zhang, Jin Xu, Jingyu Xin, Jinhang Choi, Joey Conway, Joey Guman, John Kamalu, John Liu, John Roberts, Johnny Greco, Jonah Alben, Jonas Yang, Jonathan Cohen, Jonathan Li, Jonathan Raiman, Joseph Jennings, Juhi Mittal, Julia Gusak, Julien Veron Vialard, June Yang, Junkeun Yi, Jupinder Parmar, Ka Shun Shum, Kaiwen Shi, Kajal Jain, Kanishk Singla, Karan Sapra, Kari Briski, Kateryna Chumachenko, Katherine Huang, Katie Lyons, Keith Wyss, Keshav Santhanam, Keval Morabia, Kevin Shih, Kezhi Kong, Khanh Nguyen, Khushi Bhardwaj, Kiran Praveen, Konstantinos Krommydas, Krishna Puvvada, Krzysztof Pawelec, Kushal Shah, Li Ding, Lily Lee, Linda Liu, Linglin Jing, Luis Vega, Maarten Van Segbroeck, Mahan Fathi, Mahdi Nazemi, Maka Dong, Makesh Narsimhan Sreedhar, Maor Ashkenazi, Marc Cuevas, Marcin Chochowski, Marco Pavone, Markus Kliegl, Marta Stepniewska-Dziubinska, Martina Gonzalez Vilas, Martyna Patelka, Matan Rusanovsky, Matthieu Le, Matty Machczynski, Matvei Novikov, Mauricio Ferrato, Meenakshi Sharma, Mehrzad Samadi, Melissa Corpuz, Melissa Saelzer, Meng Xin, Mengru Wang, Mengxi Wu, Meriem Boubdir, Michael Boone, Michael Callahan, Michael Elad, Michael Lightstone, Michal Bien, Michal Zawalski, Miguel Martinez, Mikail Khona, Mike Chrzanowski, Mike Ranzinger, Mike Wojcikiewicz, Min-Hung Chen, Ming Kang, Mingjie Liu, Mingyuan Ma, Misha Nekorystnov, MJ Mikulski, Mohammad Qazim Bhat, Mohammad Shoeybi, Morgan Purcell, Mostofa Patwary, Nabin Mulepati, Nancy Agarwal, Narimane Hennouni, Nathan Sala, Nave Assaf, Nayeon Lee, Neal Vaidya, Negar Habibi, Netanel Haber, Nick Gupta, Nick Reamaroon, Nickson Quak, Nidhi Bhatia, Nik Spirin, Niket Agarwal, Nikolai Ludwig, Nima Tajbakhsh, Nithin Sunny, Oleksii Hrinchuk, Oleksii Kuchaiev, Olivier Delalleau, Omer Ullman Argov, Pablo Ribalta, Padmavathy Subramanian, Parth Mannan, Pavlo Molchanov, Pawel Morkisz, Peter Jin, Petr Lapukhov, Petro Junior Milan, Philip Monk, Pinky Xu, Piotr Januszewski, Piotr Laszkiewicz, Po-Han Huang, Praateek Mahajan, Pradeep Thalasta, Prakash Gurumurthy, Pranav Prashant Thombre, Prasoon Varshney, Pratyusha Maiti, Preeti Chadha, Pritam Biswas, Pritam Gundecha, Przemek Strzelczyk, Puhui Meng, Pulkit Kumar, Rabeeh Karimi Mahabadi, Rachel Oberman, Rajpreet Thethy, Ramani Akkati, Rameshwar Shivbhakta, Ran Zilberstein, Randy Gelhausen, Rasoul Shafipour, Raviraj Joshi, Ray Macalisang, Rayen Tian, Reka Kovacs, Renjie Pi, Resha Shetty, Ria C, Rima Shahbazyan, Rishabh Garg, Rita Fernandes Neves, Ritika Borkar, Ritu Gala, Riya Talwar, Riyad Islam, Robert Clark, Robert Kirby, Roger Waleffe, Rohan Joshi, Rohan Pillai, Rohit Jena, Rohit Watve, Roi Garnett, Roi Koren, Rongguang Ye, Russell J. Hewett, Ryan Prenger, Ryan Stewart, Ryota Egashira, Sadegh Mahdavi, Sai Nishanth Padala, Salika Dave, Sandhya Rani Narravula, Sandip Bhaskar, Sangkug Lym, Sanjeev Satheesh, Sarah Amirslani, Saran Vikas Murari, Saurabh Mishra, Saurabh Srivastava, Saurav Muralidharan, Sean Narenthiran, Sean Wang, Seokju Cho, Seong Hee Lee, Seonjin Na, Seonmyeong Bak, Seph Mard, Serge Panev, Sergei Kolchenko, Sergio Perez, Seth Henneman, Seth Poulos, Shahar Mor, Shantanu Acharya, Shaokun Zhang, Shaona Ghosh, Sharath Turuvekere Sreenivas, Shaun Kotek, Shaya Gharghabi, Sheng-Chieh Lin, Shengliang Xu, Shi Chen, Shihao Wang, Shilpa Amireddy, Shiqing Fan, Shiyang Chen, Shrimai Prabhumoye, Shriram Venugopal, Shuang Yu, Shubham Gandhi, Shubham Pachori, Shubham Toshniwal, Shuoyang Ding, Shwetha Krishnamurthy, Simeng Sun, Sivakumar Arayandi Thottakara, Somshubra Majumdar, Soumye Singhal, Sridurga Krithivasan, Sriharsha Niverty, Stephen Ge, Sugam Dipak Devare, Sukrit Rao, Sumeet Kumar Barua, Sungsoo Ha, Surya Nistala, Suseella Panguluri, Sweta Priyadarshi, Syeda Nahida Akter, Talor Abramovich, Tanay Varshney, Tandeep Singh Chandehoke, Teo Ene, Terry Kong, Thanh Do, Thinh Le, Tian Zhang, Tijmen Blankevoort, Tim Romanski, Tiyasa Mitra, Tom Balough, Tom Huang, Tomasz Grzegorzek, Tomer Asida, Tomer Bar Natan, Traian Rebedea, Trenton Starkey, Tugrul Konuk, Tuomas Rintamaki, Twinkle Vashishth, Tyler Kniess, Tyler Poon, Udi Karpas, Ushnish De, Utkarsh Vaidya, Vahid Noroozi, Vanshil Atul Shah, Venkat Srinivasan, Venkata Karri, Venmugil Elango, Vibhor Agrawal, Vibhu Jawa, Victor Cui, Victoria Edmonds, Vijay Korthikanti, Vikas Mehta, Vikranth Jeyakumar, Vinay Rao, Vineeth Kalluru Srinivas, Vitaly Kurin, Vitaly Lavrukhin, Wahidur Rahman, Wanli Jiang, Wasi Uddin Ahmad, Wataru Ishihara, Wei Du, Wei Ping, Wei-Ming Chen, Weiheng Chai, Weijia Chen, Wendy Quan, Wenliang Dai, Wenyan Cong, William Zhang, Wojciech Prazuch, Xiaowei Ren, Xin Yu, Xiwen Yu, Yan Wang, Yang Chen, Yang Yu, Yangyi Chen, Yaniv Galron, Yash Jain, Yashaswi Karnati, Ye Yu, Yejin Choi, Yemi Ibrahim, Yev Meyer, Yi Dong, Yi-Fu Wu, Yian Zhang, Yifan Zhang, Ying Lin, Yiyang Zhou, Yoav Miron, Yogendra Pandey, Yonatan Geifman, Yonggan Fu, Yoshi Suhara, Youngeun Kwon, Yu-Cheng Chou, Yu-Chiang Frank Wang, Yuanguo Kuang, Yuekai Zhang, Yugi Guvvala, Yuki Huang, Yunheng Zou, Yunsheng Liu, Zhenming Wang, Zhiding Yu, Zhiqi Li, Zhiyu Cheng, Zhongbo Zhu, Zhuolin Yang, Zichao Yue, Zihan Liu, Zijie Yan, Zirui Liu, Zoe Faul, Zuhair Ahmed*. [[Paper]](https://arxiv.org/abs/2610.38095v1)
+- **Collective Dynamics of Self-Reinforcement: How Cross-Task Coupling Drives Policy Collapse in Unsupervised RLVR** <2026-10-27>  
+  *Peize Ding*. [[Paper]](https://arxiv.org/abs/2610.37553v1)
+- **Efficient Token-Level Policy Optimization for Masked Diffusion Models via Velocity Alignment** <2026-10-27>  
+  *Chenxing Wei, Jiazhen Kang, Hong Wang, Jianqing Zhang, Hao Jiang, Xiaolong Xu, Ningyuan Sun, Ying He, F. Richard Yu, Yao Shu, Bo Jiang*. [[Paper]](https://arxiv.org/abs/2603.01563v3)
+- **Calibrating LLM Explanations to Human Decisions with Reinforcement Learning** <2026-10-27>  
+  *Dong Shu, Ziyang Guo, Negar Kamali, Matthew Groh, Jessica Hullman*. [[Paper]](https://arxiv.org/abs/2610.17306v2)
+- **Uncovering Shortcut Amplification in Video RLVR through the Lens of Perceptual Uncertainty Collapse** <2026-10-27>  
+  *Jiafeng Liang, Xianhao Ou, Tao Ren, Rongchuan Mu, Runxuan Liu, Dandan Tu, Ming Liu, See-Kiong Ng, Bing Qin*. [[Paper]](https://arxiv.org/abs/2610.37211v1)
+- **Guided-RLVR: Guided Exploration in Reinforcement Learning with Verifiable Rewards** <2026-10-27>  
+  *Bo Yang, Zishuai Zhang, Weihua Li, Qinnan Zhang, Sijia Wen, Hainan Zhang*. [[Paper]](https://arxiv.org/abs/2610.37041v1)
+- **Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception** <2026-10-27>  
+  *Lai Wei, Yatai Li, Liangbo He, Jun Lan, Renjie Gu, Linhan Cao, Junkai Lin, Huijia Zhu, Weiqiang Wang, Linghe Kong, Yue Wang, Zhuosheng Zhang, Weiran Huang*. [[Paper]](https://arxiv.org/abs/2610.37037v1)
+- **When All Rollouts Fail: Policy-Compatible Joint Decoding for Hard-Problem Reasoning** <2026-10-27>  
+  *Zehao Wang, Hanzhu Chen, Runquan Gui, Zhe Wang, Lin Yang*. [[Paper]](https://arxiv.org/abs/2610.36849v1)
+- **MVRCap: Towards Comprehensive Video Captioning via Hierarchical Multi-Dimensional Verifiable Rewards** <2026-10-27>  
+  *Weihuang Lin, Xianing Chen, Zhibin Wang, Congzhi Zhang, Yiwei Ma, Jiayi Ji, Miao Chen, Jun Song, YuCheng, Bo Zheng, Xiaoshuai Sun, Rongrong Ji*. [[Paper]](https://arxiv.org/abs/2610.36838v1)
+- **What a Weight Update Buys: Leverage Across Training Stages** <2026-10-27>  
+  *Shikhar Shiromani*. [[Paper]](https://arxiv.org/abs/2610.37719v1)
+- **Dr. Post-Training: A Data Regularization Perspective on LLM Post-Training** <2026-10-26>  
+  *Pingbang Hu, Xueshen Liu, Z. Morley Mao, Jiaqi W. Ma*. [[Paper]](https://arxiv.org/abs/2605.07063v2)
+- **Where and What to Reward? Understanding Generalization Between Verifiable and Open-Ended Domains in Reinforcement Learning** <2026-10-26>  
+  *Shangjian Yin, Yu Fu, Yue Dong, Zhouxing Shi*. [[Paper]](https://arxiv.org/abs/2605.15464v2)
+- **Audit Where Hacks Pay: Budgeted Strong-Verifier Audits Against Reward Hacking in GRPO** <2026-10-26>  
+  *Shurun Li, Michael Hua Wang, Haibo Zeng, Long Wang*. [[Paper]](https://arxiv.org/abs/2610.35716v1)
+- **Beyond Reasoning Gains: Mitigating General-Capability Forgetting in Large Reasoning Models** <2026-10-26>  
+  *Hoang Phan, Xianjun Yang, Yuanshun Yao, Jingyu Zhang, Shengjie Bi, Xiaocheng Tang, Madian Khabsa, Lijuan Liu, Deren Lei*. [[Paper]](https://arxiv.org/abs/2510.21978v3)
+- **S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning** <2026-10-26>  
+  *Shuo Shen, Guangran Cheng, Chengqi Lyu, Xiangsen Wang, Yanan Sun, Wenwei Zhang*. [[Paper]](https://arxiv.org/abs/2610.35518v1)
+- **Improving Reasoning with Rollout Agreement for Group-Based Policy Optimization** <2026-10-26>  
+  *Sohyun Son, Yerim Hong, Jaeyun Park, Mujeen Sung*. [[Paper]](https://arxiv.org/abs/2610.34951v1)
+- **QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks** <2026-10-25>  
+  *Jian Xie, Tianhe Lin, Zilu Wang, Yuting Ning, Yuekun Yao, Tianci Xue, Zhehao Zhang, Zhongyang Li, Kai Zhang, Yufan Wu, Shijie Chen, Boyu Gou, Mingzhe Han, Yifei Wang, Vint Lee, Xinpeng Wei, Xiangjun Wang, Yu Su, Huan Sun*. [[Paper]](https://arxiv.org/abs/2605.24218v2)
+- **Audio-R1: Audio Reasoning through Reinforcement Learning on Self-Supervised Tasks** <2026-10-25>  
+  *Jihoon Jeong, Mirco Ravanelli, Zhepei Wang, Cem Subakan*. [[Paper]](https://arxiv.org/abs/2610.34609v1)
+- **Self-Evolution Reasoner: Continuous Optimization via Policy-Intrinsic Exploration and Exploitation** <2026-10-25>  
+  *Wenhang Shi, Yiren Chen, Zhe Zhao, Jinhao Dong, Wei Lu, Xiaoyong Du*. [[Paper]](https://arxiv.org/abs/2610.34137v1)
+- **Evolving Language Models without Labels: Majority Drives Selection, Novelty Promotes Variation** <2026-10-24>  
+  *Yujun Zhou, Zhenwen Liang, Haolin Liu, Wenhao Yu, Kishan Panaganti, Linfeng Song, Dian Yu, Xiangliang Zhang, Haitao Mi, Dong Yu*. [[Paper]](https://arxiv.org/abs/2509.15194v4)
+- **A Comprehensive Framework for All Stages of Large-Model Training: From Data and Tokenization, through Pretraining, to Post-Training Alignment** <2026-10-24>  
+  *Xiangjing An, Zhibin Jiao, Aiting Chen*. [[Paper]](https://arxiv.org/abs/2610.33451v1)
+- **Of Chains and Gains: What Reinforcement Learning changes on Reasoning-based Image Quality Assessment** <2026-10-23>  
+  *Yixuan Li, Yuxuan Jiang, Hanwei Zhu, Hancheng Zhu, Fan Zhang, Shiqi Wang, David Bull*. [[Paper]](https://arxiv.org/abs/2610.33203v1)
+- **From Visual Affinity to Learning Credit in Multimodal Reinforcement Learning** <2026-10-23>  
+  *Yuhang Han, Dingning Liu, Yujie Chen, Yaojie Zhang, Jingwei Song, Zequn Yang, Xuanming Shang, Li Ding, Zhijiang Guo, Linfeng Zhang*. [[Paper]](https://arxiv.org/abs/2610.32324v1)
+- **Heterogeneous Agent Collaborative Reinforcement Learning** <2026-10-23>  
+  *Zhixia Zhang, Zixuan Huang, Gongxun Li, Huaiyang Wang, Chengyi Yuan, Xin Xia, Deqing Wang, Fuzhen Zhuang, Shuai Ma, Ning Ding, Yaodong Yang, Jianxin Li, Yikun Ban*. [[Paper]](https://arxiv.org/abs/2603.02604v3)
+- **Clip-Low Increases Entropy and Clip-High Decreases Entropy in Reinforcement Learning of Large Language Models** <2026-10-22>  
+  *Jaesung R. Park, Junsu Kim, Gyeongman Kim, Jinyoung Jo, Sean Choi, Jaewoong Cho, Ernest K. Ryu*. [[Paper]](https://arxiv.org/abs/2509.26114v2)
+- **Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3** <2026-10-22>  
+  *Barış Alparslan, Sandy Tanwisuth, Caleb Petterson*. [[Paper]](https://arxiv.org/abs/2610.31624v1)
 - **From Visual Affinity to Learning Credit in Multimodal Reinforcement Learning** <2026-10-23>  
   *Yuhang Han, Dingning Liu, Yujie Chen, Yaojie Zhang, Jingwei Song, Zequn Yang, Xuanming Shang, Li Ding, Zhijiang Guo, Linfeng Zhang*. [[Paper]](https://arxiv.org/abs/2610.32324v1)
 - **Heterogeneous Agent Collaborative Reinforcement Learning** <2026-10-23>  
