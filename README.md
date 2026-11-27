@@ -4232,6 +4232,12 @@ RLVR is a rapidly evolving paradigm for aligning LLMs through **external reward 
    *Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li.* **arXiv / ACL 2024**  
    [[Paper]](https://arxiv.org/abs/2401.08967) [[Code]](https://github.com/lqtrung1998/mwp_ReFT)
 
+<h4>2023</h4>
+
+1. **RLTF: Reinforcement Learning from Unit Test Feedback** <2023.07>  
+   *Jiate Liu, Yiqin Zhu, Kaiwen Xiao, Qiang Fu, Xiao Han, Wei Yang, Deheng Ye.* **TMLR 2023**  
+   [[Paper]](https://arxiv.org/abs/2307.04349) [[Code]](https://github.com/Zyq-scut/RLTF)
+
 
 ---
 
